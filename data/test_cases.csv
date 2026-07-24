@@ -1,0 +1,10 @@
+note_file,condition,icd10,expected_status
+note1.txt,Type 2 diabetes mellitus,E11.9,active
+note1.txt,Congestive heart failure,I50.9,active
+note1.txt,Chronic obstructive pulmonary disease,J44.9,active
+note1.txt,Morbid obesity,E66.01,active
+note1.txt,Essential hypertension,I10,uncertain
+note2.txt,Coronary artery disease,I25.10,active
+note2.txt,Atrial fibrillation,I48.91,active
+note2.txt,"Chronic kidney disease, stage 3",N18.30,active
+note2.txt,Major depressive disorder,F33.9,active

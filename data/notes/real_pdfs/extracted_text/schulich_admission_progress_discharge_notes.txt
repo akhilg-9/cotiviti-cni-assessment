@@ -1,0 +1,925 @@
+1. Sample Admission Note
+2. Sample CTU Progress Note
+3. Discharge Summary
+4. Discharge Planning and the DC Note Brochure
+Sample Progress Notes and Discharge Summary
+Prepared by:
+Dr. Mark Goldszmidt MD, MHPE, PhD, FRCPC 
+mgoldszm@uwo.ca
+Table of Contents:
+ADMISSION NOTE (Verified) 
+cc: Family Doctor 
+Specialist 1 
+Specialist 2 etc. 
+DATE OF ADMISSION:  Date 
+PATIENT IDENTIFICATION:  Ms. J is a pleasant 76-year-old 
+woman who presented to the Emergency Department from 
+home in London. 
+REASON FOR REFERRAL:  Concern regarding 
+pneumosepsis. 
+ACTIVE MEDICAL ISSUES: 
+1. Sepsis secondary to pneumonia.
+2. Atrial fibrillation with rapid vent ricular rate.
+3. Hyponatremia, hypovolemic
+4. Migratory polyarthralgia.
+PAST MEDICAL HISTORY: 
+1. Squamous cell carcinoma of the lung, stage III, diagnosed
+in November of 2019.  No surgery was performed given
+PFTs (FEV1 of 69%, DLCO of 44). They underwent 60 Gy
+of radiation and 30 fractions to the left lung, as well as
+treatment with cisplatin and etoposide.  Chemotherapy
+finished February 2020.
+Commented 
+[MG1]: Be sure to 
+send copies to the 
+family physician as 
+well as any specialists 
+involved in their care 
+2. Left leg DVT sustained in February 2020, completed a
+total course of Edoxaban 60 mg, ultrasound of the leg
+veins performed on July 23 showed a 2 mm residual clot.
+3. Gastroesophageal reflux disease.
+4. Remote history of spastic bladder.
+5. Remote history of breast cyst.
+RECONCILED ADMISSION MEDICATION LIST: 
+1. Diltiazem 120 mg p.o. daily, new as of 1 week PTA. (Held
+on admission)
+2. Metoprolol 50 mg po bid (newly started on admission)
+3. Apixaban 5 mg oral b.i.d., new as of 1 week PTA
+4. Amoxi-Clav 500/125 mg t.i.d., prescribed a 7-day course 1
+week PTA (completed)
+5. Ceftriaxone 1 g IV q 24 X 7 days to stop on Date
+6. Azithromycin 500 mg now followed by 250 mg daily for 5
+days to stop on Date
+7. CBD oil at bedtime.
+8. Tylenol 650 mg q4 hrs PRN started for pain or fever
+ALLERGIES:  Sustained some sort of severe reaction while 
+on paclitaxel chemotherapy.  This was switched to cisplatin 
+and etoposide. 
+SOCIAL HISTORY:  Ms. J is a pleasant 76-year-old lady who 
+lives in a home in London with her husband.  She gets 
+Commented 
+[MG2]: Key thing to 
+notice is how to 
+indicate what is being 
+held, what is being 
+started and what is 
+being changed. Also 
+put dates on short 
+term meds like 
+antibiotics. 
+assistance from him for some of her IADLs including 
+groceries and medications.  She is independent for her ADLs 
+and ambulates independently with no gait aids.  She is a 
+former smoker with a total of approximately 15-pack-year 
+history who quit 45 years ago.  She does not currently drink 
+alcohol.  She does use CBD oil every evening for sleep, but 
+does not use any other recreational drugs. 
+HISTORY OF PRESENTING ILLNESS:  At baseline, despite 
+her underlying malignancy and PFT findings, she has not 
+respiratory symptoms.  She presents to the hospital today 
+with a history of 2 weeks of shortness of breath, fever, chills, 
+night sweats and feeling generally unwell.  She presented to 
+the St. Joseph's Urgent Care on Date.  A CTPA was 
+performed which did not show a PE, but did show a left lower 
+lobe consolidation consistent with pneumonia and she was 
+prescribed a 7-day course of amoxicillin/clavulanate.  Ms. J 
+feels that she has not had significant improvement since then.  
+She determined to come in today due to generalized 
+weakness and desire for improvement.  She notes that she 
+has a thermometer at home and did not appear to relate any 
+measured temperatures, but was noted to be febrile at triage.  
+As mentioned, she notes a history of increased shortness of 
+breath on exertion, primarily over the past 2 weeks.  We note 
+that at baseline, since her treatment for lung cancer, she has 
+Commented 
+[MG3]: This is 
+essential and often 
+left out. Especially for 
+patients with chronic 
+active disease, it 
+helps you to 
+understand what 
+they are normally like 
+and how this has 
+changed recently/
+over time. 
+had some shortness of breath while talking.  Her shortness of 
+breath on exertion is however new.  She has also had some 
+mild weakness over the past 2 weeks, does endorse 
+decreased oral intake secondary to decreased appetite over 
+the past 2 weeks.  She does have some very mild chest pain, 
+which she says has been present for quite a while, several 
+months, but did improve, and then came back over the past 2 
+to 3 weeks after sustained coughing fits.  She does note that 
+she has quite a sustained cough starting from February that 
+has not changed recently.  We do note that this is significant 
+enough to cause her posttussive emesis on a somewhat 
+regular basis, though she was not able to quantify how often. 
+Ms. J also endorses a history of 6 weeks of migratory 
+polyarthralgia.  It initially started in her left hand, where she 
+had an area of erythema that was tender to touch.  She did 
+have decreased mobility in that wrist, but was able to sustain 
+some movement.  It then spread up into 2 or 3 of her fingers, 
+no particular distribution and limited mobility in them entirely.  
+This pain persisted for 3 to 5 days and then resolved 
+spontaneously.  She had a week of no pain, and then the pain 
+appeared similarly in her right hand.  This pattern continued 
+and currently she has this pain in her left ankle.  She is not 
+able to significantly move her ankle.  At this point, it is quite 
+tender and she is having difficulty ambulating given the pain. 
+Commented [MG4]: 
+Ideally, each active 
+problem listed above 
+should have its own 
+paragraph.  Notice 
+how this resident did 
+not write anything 
+about the 
+hyponatremia or 
+atrial fibrillation.  
+Ideally, both should 
+have been discussed 
+at least briefly.   
+REVIEW OF SYSTEMS:  She was positive for 3-day history 
+of mild diarrhea.  She did not have any headaches or vision 
+changes.  She has no abdominal pain and no recent urinary 
+changes.  She does not report any palpitations.  She has not 
+had any residual stiffness or other pain in her joints after the 
+inflammatory polyarthralgia fade. 
+PHYSICAL EXAMINATION:   
+appeared in mild respiratory distress with tachypnea and 
+some supraclavicular indrawings. 
+Vitals:  At triage, febrile to 39.7.  Heart rate of 156 and 
+respiration rate of 30.  Blood pressure 123/73 and satting 
+96% on 2 litres. On assessment now, temperature is 37.3.  
+Heart rate had decreased down to be 95 to 106.  Respiratory 
+rate 22.  Blood pressure 106/76, SpO2 97% on 2 litres.  Ms. J 
+did desaturate periodically into the high 70s while talking, but 
+when encouraged to breathe through her nose with some 
+pauses in her speech, these did recover. 
+Respiratory:  Diffuse crackles were present throughout the 
+right lobe of the lung, with no particular upper versus lower 
+predominance.  There were decreased breath sounds to 
+the left base, consistent with low lung volumes.  There were 
+no crackles in the left lung. 
+Cardiovascular:  Normal S1, S2 with no additional sounds.  
+No peripheral edema.  JVP was flat. 
+Commented 
+[MG5]: This is a 
+very nice touch 
+indicating what they 
+were at their worst 
+or over time in the 
+ED.  It gives a better 
+sense of things than 
+just listing what you 
+found when you saw 
+the patient. 
+Abdomen:  Soft, nontender, nondistended. 
+Extremities:  Left ankle examination showed some mild 
+erythema on the lateral surface of the left ankle.  It was 
+warm to touch and there was significant pain to direct 
+palpation.  Ms. J was not significantly able to mobilize her 
+joint due to pain.  Examination of the bilateral hands did not 
+show any acute tenderness or limitation in range of motion, 
+though it may show some baseline mild osteoarthritis. 
+INVESTIGATIONS:  
+1. VBG showed a pH of 7.43, CO2 of 40, bicarb of 27.2.
+2. Electrolytes showed hyponatremia at 129, potassium of
+4.6, chloride of 93, bicarbonate 24.  Creatinine was 58.
+3. Normal white count at 8.1.  Hemoglobin at 112, from 127
+on May 5.  Platelets 422.
+4. Chest x -ray shows chronic left-sided volume loss.  There
+are no acute areas of consolidation seen.
+5. X -ray of the left ankle shows no fracture.
+6. A CTPA on August 31 shows no PE, but does show left
+lower lobe consolidation consistent with pneumonia.
+ASSESSMENT AND PLAN:  In summary, Ms. J is a pleasant 
+76-year-old lady presenting from home with fever,
+tachycardia, tachypnea, in the setting of previously identified
+left lower lobe pneumonia.
+1. Regarding Pneumosepsis:  As mentioned, she has a 
+previously diagnosed pneumonia.  We do note that there 
+are no acute changes on the chest x-ray, but it did not 
+appear to be visualized to the previous one.  There was 
+no other significant infectious source expressed by the 
+patient.  We do note her hyponatremia and her diarrhea 
+for the last couple of days and therefore we would add 
+legionella to the differential of organisms, possibly causing 
+this.  We think GI source or urine source of infection are 
+unlikely. 
+A. We will start ceftriaxone and azithromycin to cover for
+atypical infections.
+B. We will send urine legionella antigen to rule this out.
+C. We will order urinalysis to ensure no urine source,
+although we feel that this suspicion is very low given
+her lack of urinary symptoms.
+D. Given that she is hypovolemic, we have added a 75
+mL infusion of Ringer's lactate over 10 hours, in
+addition to the 1 litre bolus given by the Emergency
+Department.
+2. Regarding AFib and rapid ventricular response:  We feel
+that the cause of this is most likely secondary to
+hypovolemia and/or infection.  Ms. J rate was able to be
+Commented 
+[MG6]: Note how for 
+each of the problems, 
+the resident, as 
+relevant addresses 
+the most likely 
+diagnosis, differential 
+diagnosis, underlying 
+cause, plans for 
+further investigation, 
+management and 
+monitoring 
+controlled with just oral metoprolol 50 mg and therefore an 
+IV push metoprolol was not given. 
+A. Given that her rate was not controlled on diltiazem,
+we have elected to discontinue this and switch her to
+Metoprolol 50 mg b.i.d.
+B. Given that she is over 65 and is female with a
+CHADSvasc score of 2, we have elected to continue
+the apixaban started in the Urgent Care.
+C. Given her presentation with RVR, we will elect to
+initiate 48 hours of telemetry.
+D. To ensure no additional causes, we have ordered a
+TSH and an echo, for the team to reassess as
+needed in the morning.
+3. Regarding hyponatremia:  We feel that this is most likely
+secondary to hypovolemia, as Ms. J has a documented
+decreased oral intake.  As mentioned above, we are going
+to give some maintenance fluids in addition to the bolus
+that Emerge has already provided.  We will reassess her
+electrolytes tomorrow morning to determine if additional
+measures are necessary.
+4. Regarding migratory polyarthralgia:  This pattern is
+nonspecific, time-limited, and intermittent; she currently
+only has one painful joint.  The multiple joints and
+subacute time course are not consistent with septic
+arthritis. She does have evidence of possible 
+osteoarthritis on examination, and it is possible that this 
+could be related to minor joint trauma causing a more 
+acute flare of pain.  A rheumatologic condition remains on 
+the differential.  
+A. We will order standing Tylenol to provide pain control
+and help Ms. J with mobilization.
+B. We have opted not to send off any rheumatologic
+workup overnight, and will leave further workup to the
+morning team.
+5. Best Practices:  
+A. As Ms. J is already on apixaban, we will not add
+additional DVT prophylaxis.
+B. Per her wishes, Ms. J is a DNR restricted.
+C. Given that she is on CBD oil at bedtime, but did not
+bring this, we have opted to add nabilone 1 mg qhs.
+We could arrange to administer her home CBD oil if it
+is possible for her husband to drop it off.
+6. Disposition:  Ms. J will be able to return home to her
+husband after she has defervesced.
+Name, 
+MD Resident dictating for
+Name Attending
+Commented [MG7]: 
+be sure to indicate any 
+forms of lines, 
+telemetry, catheters 
+etc.  For each 
+be sure to 
+indicate why it is in, 
+how long it is planned 
+to be in and the 
+indication. 
+E.
+g.  Telemetry for 48
+hours to monitor for
+cause of syncope.  If
+normal after 48 will
+discontinue.
+Foley placed for urinary
+retention.  will  treat for
+constipation and plan 
+a
+trial of void on 
+DATE.
+Commented [MG8]: 
+While it is good to list 
+this, it really should 
+have a few sentences 
+explaining why the 
+patient is making the 
+choice etc. 
+Back to top
+CTU  PROGRESS NOTE 
+PATIENT IDENTIFICATION:  Ms. M is a 90-year-old female 
+from home with her son and granddaughter presenting with a 
+fever NYD as well as shortness of breath. 
+DATE OF ADMISSION: Month, day, 20XX 
+ACTIVE ISSUES: 
+1. Hypoxemia, likely due to R lower lobe pneumonia
+2. Hypotension
+3. Mobility
+4. Eye infection
+5. Confusion
+PAST MEDICAL HISTORY: 
+1. MCA stroke June 22, 2020  with left sided weakness and
+neglect.
+a. Etiology is ESUS versus small vessel disease
+b. Was in Parkwood for rehab
+2. MCV in 1973 with patient suffered from posttraumatic
+seizures.  No history of seizure in the last 10 years.
+3. Hypertension.
+4. Dyslipidemia
+5. Osteoarthritis.
+6. Hiatal hernia.
+7. Right cataract surgery.
+Commented [MG9]: If you 
+use this template, it is easy to 
+cut and paste each day and 
+update each section.  Best 
+practice is to make your note, 
+participate in end of day 
+rounds, modify based on what 
+was discussed and sign it.  
+Please note, you do need to 
+sign your note each day! 
+Otherwise it will not post to 
+be viewed by others. 
+Commented [MG10]: 
+Copied from admission note 
+Commented [MG11]: Copied 
+from admission note but 
+edited based on developing 
+understanding of the 
+problems. The active problem 
+list consists of a combination 
+of new and chronic active 
+problems.  To decide if a 
+chronic active problem needs 
+to be on the list in hospital, ask 
+yourself: 
+1. Does it need monitoring
+(e.g. DM or heart failure or
+patient on Coumadin to
+monitor INR)
+2. Are we doing something
+that might make it less stable
+(e.g. prednisone in a patient
+with 
+DM or holding BP meds)
+Also include things like 
+lines we have placed (e.g. 
+urinary catheter or PICC 
+line).  Including them in the 
+list reminds us to plan 
+when to remove them. 
+Commented [MG12]: 
+Copied from admission note  
+SOCIAL HISTORY:  The patient lives at home with her son 
+and granddaughter.  She mobilized using a walker or a cane 
+around the house.  She suffered a stroke recently and did 
+receive rehabilitation therapy at Parkwood Hospital.  She 
+continues to remain independent of her ADLs, but her son 
+does help her with groceries and finances. Previous smoker, 
+quit in 1985 – one pack per week. 
+RECONCILED MEDICATION LIST 
+1. Pantoprazole 40 mg b.i.d. autosubstituted in hospital for
+Lansoprazole 30 mg BID
+2. ASA 80 mg once daily.
+3. Atorvastatin 20 mg once daily.
+4. Perindopril 4 mg daily (HOLD for low BP) 
+5. Clobazam 10 mg once daily.
+6. Vitamin C 500 mg once daily.
+7. Amitriptyline 20 mg once daily
+8. Seroquel 25 mg b.i.d.
+9. PEG 3350 p.r.n. in hospital medication (no used since 
+admission) 
+10. cefuroxime 500 mg BID for 7 day course stopping on 
+Date X 
+11. erythromycin drops x 5 days stopping on Date X
+12. Dalteparin 5000 units daily for DVT prophylaxis in
+hospital
+Commented 
+[MG13]: Copied from 
+admission note.  Try to 
+sequence like with like 
+(i.e. cardiac meds , DM 
+meds etc.) 
+Commented 
+[MG14]: If done 
+right, this can be 
+copied from the 
+admission note and 
+then edited daily.  
+Commented [MG15]: 
+For home meds where 
+the dose was changed 
+or the drug was held be 
+sure to indicate what 
+and why 
+Commented 
+[MG16]: For prn meds, 
+update daily what they 
+have taken in the past 
+24 hours 
+Commented 
+[MG17]: For 
+antibiotics be sure to 
+indicate a stop date 
+and a total duration 
+IVs 
+-None currently
+ALLERGIES:  
+1. Cefprozil - tested and told not to take.
+2. Penicillin allergy is a rash.
+TODAY’S PHYSICAL EXAMINATION:  
+Vitals: HR71 BP 117/70 RR 18 95% on 1 L NP (Stable over 
+past 24 hours) 
+General: in bed comfortable, no respiratory distress, alert and 
+oriented x 1 , difficulty with attention. Wearing dentures.  
+Eye: L eye has periorbital erythema, yellow-green discharge 
+on eyelashes. 
+Cardio: Normal S1, S2 no murmurs 
+Resp: Difficult to assess due to positioning, GAEB in the 
+upper lobes, no crackles or wheezes. 
+Abdo: Abdomen soft, non tender, non distended 
+Hypoxemia, likely due to R lower lobe pneumonia: Not on 
+oxygen at baseline, no history of COPD or asthma. No 
+wheeze, but short of breath on admission to the emergency 
+department. CXR showed no pulmonary edema. CT showed 
+no PE but demonstrated infectious cause of shortness of 
+Commented 
+[MG18]: If running 
+maintenance be sure 
+to list what you are 
+running and the, why 
+you are running it and 
+the plan for 
+discontinuing it 
+breath as well as a nodule in the R lower lobe. Had two 
+documented fevers over 38.0 degrees in ER. Given one dose 
+of levofloxacin by ER. Normal lactate. Swabbed for COVID. 
+Switched to ceftriaxone q 24 hours. Placed on O2 in emerg. 
+Has allergies to multiple antibiotics. 
+Updates: Fever has resolved. Shortness of breath has 
+resolved. On O2 1-1.5 L NP. Blood cultures show no growth 
+on day 1. Breath sounds difficult to appreciate today due to 
+positioning but had good air entry bilaterally. Was satting 90% 
+on 1 L but once took deep breaths and repositioned NP, rose 
+to 95%. Lung nodule on CXR discussed with the patient. 
+COVID negative. Dropped to 76% after exertion and oxygen 
+was increased to 1.5L NP. 
+Plan: 
+1. Switched to cefuroxime 500 mg BID oral to step down as
+appears to be improving.
+2. Wean off oxygen.
+3. Consider referral to Adverse Drug Reactions clinic due to
+multiple antibiotic allergies.
+4. Arrange F/U for lung nodule with CT in 3-6 months.
+Hypotension: Treated for hypertension at baseline, on 
+perindopril 4 mg daily. Was hypotensive (90/50s) at 
+admission. Received 500 mL bolus in ER, no AKI. Eating well. 
+Received 1000 mL RL. Suspended perindopril. 
+Updates: BP 117/70 today. Not symptomatic currently. 
+Euvolemic/dry on examination.  
+Plan: Continue to hold perindopril. 
+Mobility:  At baseline, uses a walker or cane to mobilize. 
+Has not gotten out of bed since admission. 
+Plan: PT referral in place for this patient. 
+L eye inflammation: 3 days prior to admission, had a 
+migraine headache and had a nap, waking up to crusting and 
+erythema around the L orbit.  Had periorbital redness around 
+the left eye with some crusting with discharge on the 
+eyelashes.   
+Updates: No pain. Continues to have erythema, crusting and 
+purulent discharge from L eye. No vision changes. 
+Plan: erythromycin drops to treat infection. 
+Confusion: No confusion or dementia at baseline. Previous 
+stroke. Family states has become confused in hospital before. 
+Was not oriented to person or place since admission but no 
+fluctuating level of consciousness.   
+Update:  According to her nurse, she has had a better night 
+last Pm and today appears to be oriented X 3.  
+Assessment/Plan: Initial delirium likely secondary to infection 
+and hypoxia.  Continue to monitor 
+Best Practices:  DVT prophylaxis has been started, 5000 
+units of dalteparin.  Code status was discussed and the 
+patient wishes to be DNR basic. 
+Commented [MG19]: 
+be sure to indicate any 
+forms of lines, 
+telemetry, catheters 
+etc.  For each be sure to 
+indicate why it is in, 
+how long it is planned 
+to be in and the 
+indication. 
+E.g.  Telemetry for 48
+hours to monitor for
+cause of syncope.  If
+normal after 48 will
+discontinue.
+Foley placed for urinary
+retention.  will  treat for
+constipation and plan a
+trial of void on DATE.
+Back to top
+DISCHARGE SUMMARY (Verified) 
+cc: Family Doctor  
+Specialist 1 
+Specialist 2 etc. 
+DATE OF ADMISSION:  Date    
+DATE OF DISCHARGE: Date 
+Mrs. Mu is a 90-year-old female from home with her son and 
+granddaughter who initially presented with fever NYD as well 
+as shortness of breath. 
+DISCHARGE DIAGNOSIS:  Right lower lobe pneumonia. 
+ACTIVE ISSUES IN HOSPITAL: 
+1. Hypoxemia, likely due to the righ t lower lobe pneumonia.
+2. Hypotension  on a background of HTN.
+3. Mobility.
+4. Eye infection.
+5. Confusion.
+6. Right lower lobe lung nodule.
+PAST MEDICAL HISTORY: 
+1. MCA stroke June 22, 2020  with left sided weakness and
+neglect.
+a. Etiology is ESUS versus small vessel disease
+b. Was in Parkwood for rehab
+Commented [MG20]: 
+Be sure to send copies to 
+the family physician as 
+well as any specialists 
+involved in their care 
+Commented [MG21]: 
+Copied from admission 
+note and modified, if 
+needed based on other 
+information learned in 
+hospital (i.e. the 
+admission note is not 
+always accurate) 
+2. MCV in 1973 with patient suffered from posttraumatic
+seizures.  No history of seizure in the last 10 years.
+3. Hypertension.
+4. Dyslipidemia
+5. Osteoarthritis.
+6. Hiatal hern ia.
+7. Right cataract surgery.
+DISCHARGE MEDICATIONS: 
+1. Quetiapine 25 mg oral 2 times daily.
+2. ASA 81 mg daily.
+3. Amitriptyline 20 mg oral daily with supper.
+4. Atorvastatin 20 mg oral daily.
+5. Clobazam 10 mg oral daily at bedtime.
+6. Cyanocobalamin 500 mcg oral daily.
+7. Pantoprazole 40 mg oral BID
+8. Cefuroxime 500 mg BID to complete a 7-day course
+ending on Date
+DISCONTINUED MEDICATIONS: 
+1. Perindopril 4 mg oral daily (due to persistent hypotension
+in hospital). 
+COURSE IN HOSPITAL: 
+Pneumonia:  At baseline, Mrs. M. is not on any oxygen, has 
+no history of COPD or asthma, but does have a history of 
+Commented [MG22]: 
+For newly prescribed 
+meds, be sure to 
+indicate why 
+and, if self-
+limited, duration and 
+end date. Be sure to 
+also indicate any 
+changes to chronic 
+home meds (e.g. 
+metoprolol 25 mg bid 
+decreased from 50 mg 
+bid) 
+Commented [MG23]: 
+Must include.  Be sure 
+to also hand write a 
+prescription indicating 
+the discontinuation 
+because power chart 
+does 
+not generate 
+discontinuation scripts 
+Commented [MG24]: 
+This is key!  For patients 
+with chronic active 
+medical problems, a 
+description of baseline 
+function is especially 
+important.  For 
+example, if she had 
+COPD, what has it been 
+like in the past year.  
+What can 
+they do and 
+not do etc. 
+smoking approximately 1 pack of cigarettes per week, last 
+smoking in 1983.  On admission to the hospital, she was short 
+of breath and was febrile.  CT chest showed no PE, but 
+showed a right lower lobe pneumonia as well as a nodule in 
+the right lower lobe.  She was given 1 dose of levofloxacin by 
+the Emergency Department.  She was also swabbed for 
+COVID, but was negative.  She was switched to ceftriaxone, 
+and stepped down cefuroxime 500 mg b.i.d., which is to be 
+stopped on date after a 7-day course.  During her hospital 
+stay, she had difficulty weaning off oxygen.  The day before 
+discharge, she developed a one-time, low-grade fever of 38.0 
+degrees Celsius, which was investigated with chest x-ray 
+which showed no gross changes from previous chest x-ray, 
+and there was no other clinical suggestion of infection. At 
+discharge, she was able to achieve an oxygen saturation up 
+to 100% while lying in bed without oxygen. 
+Hypotension:  During her stay, she was consistently 
+hypotensive or normotensive and initially received several 
+fluid boluses.  Her Perindopril was suspended due to 
+hypotension and was not restarted because all of her BPs 
+were below 120 systolic. 
+Mobility:  At baseline, she uses a cane or walker to mobilize. 
+She was seen by PT and OT during her stay to help with 
+Commented 
+[MG25]: Depending 
+on the problem, 
+always be sure to flag 
+key findings at the 
+time of discharge.  In 
+other patients, this 
+might be their JVP, 
+what their lungs 
+sounded like or how 
+much pedal edema 
+they had.
+Commented 
+[MG26]: Secondary 
+minor issues should be 
+mentioned but do not 
+necessarily require a 
+lot of detail. 
+mobilization.  Both of these services will be seeing her in the 
+community as she was not back to baseline at discharge. 
+Left eye inflammation:  Two days prior to admission, she 
+developed crusting and erythema around her eye.  She also 
+had periorbital redness on the eye with some crusting and 
+discharge on the eyelashes.  She was placed on erythromycin 
+drops q.i.d. for 5 days, which cleared any signs of infection. 
+Confusion:  She has no confusion or dementia at baseline, 
+but does have history of stroke.  The family did state that she 
+has a history of becoming confused in hospital.  Throughout 
+her hospital stay, she had fluctuating mentation, at times not 
+being oriented to time or place.  However, on discharge, she 
+was oriented to person and place.  It was thought that 
+infection and being in the hospital may have contributed to 
+her confusion.  At time of discharge, she was slightly off 
+baseline, but the team felt that she would likely reorient better 
+at home where her confusion would resolve. 
+Lung nodule: She was found to have a lung nodule of her 
+right lower lobe.  This was explained to her and her family that 
+it may be due to an infectious cause or may be a change in 
+the lung parenchyma or may be a signal that there may be an 
+underlying malignancy.  A repeat CT scan in 3 months is 
+recommended. 
+RECOMMENDATIONS AND FOLLOW-UP PLANS: 
+1. Pneumonia:  This appears to have fully resolved.  There
+is no need for follow-up CXR.  She has 2 days of
+antibiotics to complete
+2. HTN:  At baseline she has HTN.  Throughout her stay we
+have held her Perindopril 4 mg oral daily.  We have
+asked her to see her family physician in 1-2 weeks to
+reassess and we have notified her Family Physician who
+has also agreed with this plan
+3. Lung nodule:  As noted above, a CT scan has been
+ordered with results cc’d to her family physician.  We 
+have contacted their office and they have agreed to 
+follow-up with her and her family on the results. 
+4. Mobility:  PT and OT will see her in the community for an
+at home assessment and ongoing support.
+It was a pleasure being involved in this patient’s care.  Should 
+there be any questions arising from this Discharge Summary, 
+please do not hesitate to contact Dr. Attending Physician. 
+Name 
+Clinical Clerk/resident for, 
+Dr Name 
+Commented 
+[MG27]: This is always 
+a good thing to do wen 
+asking someone else to 
+do follow-up. 
+Back to top
+Discharge Planning and the D/C Note 
+Milton dictating Paradise Lost to his Daughters. 
+Discharge planning and the D/C note represent a very 
+important aspect of inpatient care. This teaching 
+brochure has been designed to help guide you through 
+the process. 
+Prepared by:§ 
+Mark Goldszmidt MD, MHPE, PhD, FRCPC 
+mgoldszm@uwo.ca 
+§ Last updated June 2020
+
+D/C Checklist: 
+Discharge planning begins at the time of admission. 
+However, if not already done, don’t forget to do the 
+following: 
+1.Day before D/C
+□ Fill out PODS and discuss D/C plans with patient and/or
+their families.
+• What happened in hospital
+• Changes in meds
+• What to expect
+• Complications to watch for and what to do if they
+occur.
+□ Inform/arrange for home care (LHIN) etc. when
+appropriate.
+□ Contact patient’s family doctor and/or pertinent
+specialists (if relevant).
+□ Plan Scripts keeping in mind the following:
+• No change to their prior medication regimen- 
+reconcile but do not provide new script.
+• If changing doses – in the comments section indicate
+that this is a change from the prior dose
+(e.g. increased from prior dose of…)
+• Don’t forget to use the limited use codes when
+required.
+• If pre-hospitalization meds have been stopped,
+you will need to hand-write these onto the
+electronic script at the time of discharge
+(PowerChart does not allow discontinue scripts).
+The alternative is to create non-formulary script
+which can be used for discontinuing medications.
+• Don’t provide scripts for PRN meds unless truly
+indicated post-discharge.
+2. Day of D/C
+□ Do any tasks not already done. (e.g., review PODS
+with the patient.)
+□ Review scripts with senior.
+□ Ensure that appropriate follow-up has been arranged
+and that the patient is aware of these plans. This
+includes the need for follow-up tests or to review
+pending tests.
+□ Dictate the D/C summary.
+This needs to be done on the same day as the
+discharge.
+Note: if you know that you will need to edit it,
+please inform the attending of this need and be sure
+to do the edits the very next day so that it can be
+signed off and sent to the family physician within
+48 hours of d/c. Prior to a weekend or post-call
+day, it is ok to pre-dictate a d/c note so that the
+person who best knows the patient is doing the
+summary.
+Note: Patients who have died also need a dictated death 
+summary! If you are on call when this occurs, and you 
+are not just cross- covering, as a courtesy to your 
+teammates, please dictate the summary. If not, let the 
+team senior know the next morning so they can ensure 
+that it gets done. 
+Dictation 
+1. Prior to Dictating:
+□ Be sure that you are clear on the discharge plans for
+the patient (you may need to discuss these with the
+senior prior to dictating your note).
+□ Make a list of all the names (first* and last) of
+physicians who should receive a copy of this note
+(attending, family physician, any specialists who
+were involved in their care while they were in
+hospital or who follow them on an outpatient basis).
+Also include a copy to places like their nursing
+home.
+□ Find a quiet place to dictate
+□ Remind yourself to “speak slowly” and spell key
+words (esp. physician last names, drug names and
+doses etc.)
+2. Starting your dictation
+□ Identify self, role, date, patient name, PIN # and their
+D.O.B.:
+“this is John Smith PGY1 dictating for Dr. M.
+Goldszmidt on April 1st 2020. This is a dictation on
+Mr. John Doe, PIN # 1234567, DOB 05/01/69)”.
+□ Identify all physicians who should receive a copy of
+the D/C summary.
+□ Be sure to include their first name/initial as well as
+their last name!
+□ Also indicate:
+• Date of Admission:
+• Date of Discharge:
+* For transcription services to send it out, you need at least a first initial. If the
+physician is from another city, please also specify which one.
+3. Dictation Format†
+I. Most Responsible Diagnosis
+II. Patient Identification
+Mr. Doe is a 66 y.o who was admitted from
+home where he lives with his wife…His active
+problem list includes:
+III. Active Problems list
+(1) CAD with CHF
+(2) Acute on Chronic renal failure
+(3) Type II DM etc.
+Note: This is not all past medical problems, only
+active ones. It may include social issues such as
+needs for more home supports and
+complications arising in hospital etc.
+IV. Past Medical/Surgical History Include a full list
+of their past history. Some of these may be same
+titles as the active problems.
+V. RE________
+(A.k.a. History of Active Problems dealt with in
+hospital) For this series of sections, start with most
+important active problem (usually same as “most
+responsible diagnosis”). Be sure to dictate new
+headings for each one:
+New paragraph “RE: CHF” new line… Try to keep
+paragraphs relatively brief (i.e., 3-5
+sentences/paragraph).
+† When dictating the first heading, indicate that you wish them to put all 
+headings in “ALL CAPS”. Also, say “new heading” for each new section. 
+For each Active Problem be sure to include: 
+□ Synopsis of original presentation including only
+pertinent +ves and –ves from the history, physical
+and investigations.
+(Complete history and physical does not belong
+here!)
+□ Course in hospital for that problem including
+functional status and pertinent physical findings at
+time of D/C. Also include results of any
+consultations or relevant results (labs, echo, CT,
+PFT etc.).
+□ Note: For 2o problems, this may be brief
+VI. Summary of Investigations (optional)
+Only include major investigations like echos,
+CTs, blood cultures etc.
+VII. Discharge Meds:
+Goal is to have one list of meds that clarifies how
+they have changed since admission. It should only
+include Prn’s that they will be using at home:
+1. Metoprolol 25 mg bid ( from 12.5 mg bid)
+2. lasix 20 mg bid ( from 40 mg bid)
+3. Plavix 75mg OD (new) …
+4. In addition, lisinopril and celebrex were D/C’d
+Note: Do not include a separate list of admission meds. 
+Do mention drug allergies (including the reaction type). 
+VIII. Recommendations& Follow-up:
+This is the most important section so take your
+time here. For each problem, give it its own
+section and go in the same order you used above.
+1. RE DM:
+2. RE CHF:
+For each, be sure to clarify: 
+□ What the problem is:
+• Diagnosis, severity and prognosis (if
+relevant)
+□ Plans for managing problem:
+• Current therapies
+• Planned therapies
+• Planned/Pending investigations
+• What has been discussed with the
+patient/family (Goals of Care, resuming
+activities, lifestyle changes, monitoring issues
+(sugars, daily weights etc.) and prognosis
+(when relevant!)
+• Who will provide follow-up, what they will
+be doing and why for example:
+“Because of the risk of hyperkalemia and 
+worsening renal dysfunction, we have 
+asked the family doctor to re-check 
+electrolytes in two weeks”‡ 
+• Also be sure to indicate:
+▪ Disposition (nursing home etc.)
+▪ Services arranged (LHIN etc.)
+▪ Results of Goals of care discussions
+Abbreviated Dictation Format 
+□ Introduction: Identify self, role, date, patient name, PIN #
+and their D.O.B.
+□ Copies to: Chart, Family physician, other specialists (first
+and last names)
+DATE OF ADMISSION: 
+DATE OF DISCHARGE: 
+I. MOST RESPONSIBLE DIAGNOSIS:
+II. I.D.: Mr. Doe is a
+III. ACTIVE PROBLEMS LIST:
+i. __________
+ii. __________, etc.
+IV. OTHER PAST MED/SURGICAL HISTORY
+V. RE: “TITLE FOR ACTIVE PROBLEM #1”
+(Include abbreviated HPIs, course in hospital and
+functional status at time of D/C for each active problem)
+RE: “Title Active problem #1”  
+RE: “Title Active problem #2” etc. 
+VI. SUMMARY OF INVESTIGATIONS
+VII. MEDS AT TIME D/C & ALLERGIES
+VIII. RECOMMENDATIONS & FOLLOW- UP
+□ Dictate by problem (1. Re Diabetes:)
+□ State final opinion of what problem is
+□ Plans for managing problem:
+• Current/Planned therapies
+• Planned/Pending investigations
+• What patient/family have been told
+• Who will provide follow-up and what they will be doing
+• Also indicate
+▪ Condition at discharge including disposition
+(nursing home, home…)
+▪ Services Arranged (home care etc.)
+▪ Results of Goals of care discussions Back to top

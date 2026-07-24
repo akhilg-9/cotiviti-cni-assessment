@@ -1,0 +1,19 @@
+Source: https://www.mtsamples.com/site/pages/sample.asp?Type=91-SOAP%20/%20Chart%20/%20Progress%20Notes&Sample=40-Cardiology%20Progress%20Note
+MTSamples de-identified transcription sample. Names redacted as in source.
+
+Description: Problem of essential hypertension.  Symptoms that suggested intracranial pathology.
+Intended for:
+Medical transcription students, transcriptionists, and educators
+practicing clinical documentation formats in SOAP / Chart / Progress Notes.
+SUBJECTIVE:  The patient is a 78-year-old female with the problem of essential hypertension.  She has symptoms that suggested intracranial pathology, but so far work-up has been negative.
+She is taking hydrochlorothiazide 25-mg once a day and K-Dur 10-mEq once a day with adequate control of her blood pressure.  She denies any chest pain, shortness of breath, PND, ankle swelling, or dizziness.
+OBJECTIVE:  Heart rate is 80 and blood pressure is 130/70.  Head and neck are unremarkable.  Heart sounds are normal.  Abdomen is benign.  Extremities are without edema.
+ASSESSMENT AND PLAN:  The patient reports that she had an echocardiogram done in the office of Dr. Sample Doctor4 and was told that she had a massive heart attack in the past.  I have not had the opportunity to review any investigative data like chest x-ray, echocardiogram, EKG, etc.  So, I advised her to have a chest x-ray and an EKG done before her next appointment, and we will try to get hold of the echocardiogram on her from the office of Dr. Sample Doctor4.  In the meantime, she is doing quite well, and she was advised to continue her current medication and return to the office in three months for followup.
+About This Sample:
+This Cardiology Progress Note report demonstrates SOAP / Chart / Progress Notes transcription formatting and clinical note structure. Terminology, medications, and documentation style reflect
+commonly used formats for training purposes and may vary by provider,
+institution, or region. Drug names and treatment choices etc. may not reflect current clinical guidelines and are used here only as part of the historical example.
+This is not medical advice.
+Go Back to SOAP / Chart / Progress Notes
+Related Samples in SOAP / Chart / Progress Notes:
+Acne - SOAPAcquired Hypothyroidism FollowupAllergic RhinitisAnemia & Leukemia FollowupAplastic Anemia Followup

@@ -1,0 +1,10 @@
+# Clinical Note Intelligence — runtime dependencies
+# (or simply: pip install -e ".[ui]")
+anthropic>=0.40.0        # Claude API (Present + Future/LMM steps)
+pillow>=10.0.0           # render the synthetic "scanned" note image
+pyyaml>=6.0              # load prompts/v1.yaml
+python-dotenv>=1.0.0     # load .env
+pydantic>=2.0.0          # typed extraction schema
+typer>=0.12.0            # CLI
+rich>=13.0.0             # pretty CLI tables
+streamlit>=1.36.0        # demo UI for the video

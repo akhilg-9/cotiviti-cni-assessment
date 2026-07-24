@@ -1,0 +1,411 @@
+15 SOAP NOTE EXAMPLES for VARIOUS PRACTITIONERS 
+https://www.carepatron.com/blog/15-soap-note-examples-and-
+templates-healthcare 
+ 
+15 SOAP note examples and templates 
+Although the above sections help outline the requirements of each SOAP notes 
+section, having an example in front of you can be beneficial. That's why we've taken 
+the time to collate some examples and SOAP note templates we think will help you 
+write more detailed and concise SOAP notes. 
+SOAP note example for nurses or Nurse practitioners 
+Subjective 
+John reports that he is feeling 'tired' and that he 'can't seem to get out of bed in the 
+morning.' John is 'struggling to get to work' and says that he 'constantly finds his mind 
+wandering to negative thoughts.' John stated that his sleep had been broken and he 
+does not wake feeling rested. He reports that he does not feel as though the medication 
+is making any difference and thinks he is getting worse. 
+Objective 
+John was unable to come into the practice and so has been seen at home. John's 
+personal hygiene does not appear to be intact; he was unshaven and dressed in track 
+pants and a hooded jumper which is unusual as he typically takes excellent care in his 
+appearance. John appears to be tired; he is pale in complexion and has large circles 
+under his eyes. 
+John's compliance with his new medication is good, and he appears to have retained 
+his food intake. Weight is stable and unchanged. 
+Assessment 
+John presents with symptoms consistent with a major depressive episode. This is 
+evidenced by his low mood, slowed speech rate and reduced volume, depressed body 
+language, and facial expression. However, it's important to note that this assessment is 
+based on the information presented and a full diagnosis can only be confirmed by a 
+qualified mental health professional. 
+Further exploration is needed to understand the duration and severity of these 
+symptoms, as well as any potential contributing factors such as life stressors, medical 
+conditions, or personal history. Additionally, while suicidal ideation is currently denied, it 
+is crucial to monitor for any changes and ensure appropriate safety measures are in 
+place. 
+Plan 
+Diagnosis: Major Depressive Disorder, Recurrent, Severe (F33.1 ICD-10) - Active 
+Problem: Depressed Mood 
+Rationale: John's depressed mood, evidenced by ongoing symptoms consistent with 
+Major Depressive Disorder, significantly impacts his daily life and requires continued 
+intervention. 
+Long-term goal: John will develop skills to recognize and manage his depression 
+effectively. 
+Short-term goals and interventions: 
+1. Maintain treatment engagement: Continue attending weekly individual therapy 
+sessions to address negative thinking patterns, build coping mechanisms, and 
+monitor progress. 
+2. Optimize medication: Collaborate with the prescribing physician to continue 
+titration of the SSRI fluoxetine as needed, ensuring optimal symptom control. 
+3. Engage in daily physical activity: Encourage participation in structured physical 
+activity, such as walking Jingo once a day, to improve mood and energy levels. 
+4. Implement a safety plan: Develop a collaborative safety plan with John outlining 
+clear steps and resources he can access in moments of suicidal ideation, 
+ensuring his safety and well-being. 
+SOAP note example for psychotherapists 
+Subjective 
+Stacey reports that she is 'feeling good' and enjoying her time away. Stacey reports she 
+has been compliant with her medication and using her meditation app whenever she 
+feels her anxiety. 
+Objective 
+Stacey was unable to attend her session as she is on a family holiday this week. She 
+was able to touch base with me over the phone and was willing and able to make the 
+phone call at the set time. Stacey appeared to be calm and positive over the phone. 
+Assessment 
+Stacey presented this afternoon with a relaxed mood. Her speech was normal in rate, 
+tone, and volume. Stacey was able to articulate her thoughts and feelings coherently. 
+Stacey did not present with any signs of hallucinations or delusions. Insight and 
+judgment are good. No sign of substance use was present. 
+Plan 
+Plan to meet again in person at 2 pm next Tuesday, 25th May. Stacey will continue on 
+her current medication and has given her family copies of her safety plan should she 
+need it. 
+SOAP note example for pediatricians 
+Subjective 
+Mrs. Jones states that Julia is "doing okay." Mrs. Jones said her daughter seems to be 
+engaging with other children in her class. Mrs. Jones said Julia is still struggling to get to 
+sleep and that "she may need to recommence the magnesium." Despite this, Mrs. 
+Jones states she is "not too concerned about Julia's depressive symptomatology. 
+Objective 
+Mrs. Jones thinks Julia's condition has improved. 
+Assessment 
+Julia will require ongoing treatment. 
+Plan 
+Plan to meet with Julia and Mrs. Jones next week to review mx. To continue to meet 
+with Julia. 
+SOAP note example for social workers 
+Subjective 
+Martin reports experiencing a worsening of his depressive symptoms, describing them 
+as "more frequent and more intense" compared to previous experiences. He feels the 
+depressive state is constantly present, with no improvement in anhedonia, and a 
+significant decrease in energy levels compared to the previous month. He describes 
+feeling constantly fatigued, both mentally and physically, and reports difficulty 
+concentrating and increased irritability. 
+Importantly, Martin also shared experiencing daily thoughts of suicide, although he 
+denies having a specific plan or intention to act on them. 
+Objective 
+Martin denies any hallucinations, delusions, or other psychotic-related symptomatology. 
+His compliance with medication is good. He appears to have gained better control over 
+his impulsive behavior as they are being observed less frequently. Martin appears to 
+have lost weight and reports a diminished interest in food and a decreased intake. 
+Assessment 
+Martin presents with significant symptoms consistent with Major Depressive Disorder, 
+including worsening mood, anhedonia, fatigue, difficulty concentrating, and daily 
+thoughts of suicide. His verbal and cognitive functioning appears intact, with no signs of 
+psychosis. He demonstrates some insight into his depression and denies any current 
+plan or intent to act on his suicidal thoughts. 
+However, his nonverbal presentation paints a concerning picture, with listlessness, 
+distractedness, slow physical movement, and depressed body language reflecting the 
+severity of his depressive episode. It is crucial to monitor his safety closely and address 
+the suicidal ideation with appropriate interventions, despite the lack of an immediate 
+plan. 
+Therefore, continuing therapy sessions with a focus on developing coping mechanisms, 
+managing suicidal ideation, and exploring potential contributing factors is highly 
+recommended. 
+Plan 
+Diagnosis: Major Depressive Disorder (MDD) - Active 
+Rationale: Martin's ongoing symptoms of depression, including daily suicidal ideation 
+and significant functional impairment, necessitate continued intervention and support. 
+Short-term goals and interventions: 
+1. Increase treatment frequency: Schedule follow-up therapy session in two days, 
+on Friday, May 20th, to provide immediate support and monitor safety. 
+2. Reinforce safety plan: Review and reinforce Martin's existing safety plan, 
+ensuring he understands and has accessible resources to address suicidal 
+thoughts. 
+3. Encourage communication with family: Discuss the importance of informing a 
+trusted family member about his current state of mind and seeking their support, 
+while respecting Martin's autonomy concerning disclosure. 
+Additional considerations: 
+• Potential for medication management: Explore the potential benefits and risks of 
+medication management, such as anti-depressants, in consultation with a 
+physician, considering the severity and duration of symptoms. 
+• Collaboration with support systems: Consider involving other healthcare 
+providers, such as Martin's primary care physician, in a coordinated care 
+approach, if deemed necessary. 
+SOAP note example for psychiatrists 
+Subjective 
+Ms. M. describes her current state as "doing okay" with a slight improvement in her 
+depressive symptoms. While she still experiences persistent sadness, she 
+acknowledges slight progress. Her sleep patterns remain disrupted, although she 
+reports improved sleep quality and manages to get "4 hours sleep per night." 
+During the session, Ms. M. expressed discomfort with my note-taking, causing her 
+anxiety. Additionally, she mentioned occasional shortness of breath and a general 
+anxiety related to healthcare providers. Interestingly, she expressed concern about the 
+location of her medical records. 
+Objective 
+Ms. M. is alert. Her mood is unstable but improved slightly, and she is improving her 
+ability to regulate her emotions. 
+Assessment 
+Ms. M. has a major depressive disorder. 
+Plan 
+Ms. M. will continue taking 20 milligrams of sertraline per day. If her symptoms do not 
+improve in two weeks, the clinician will consider titrating the dose up to 40 mg. Ms. M. 
+will continue outpatient counseling and patient education and handout. Comprehensive 
+assessment and plan to be completed by Ms. M's case manager. 
+The SOAP note could include data such as Ms. M vital signs, patient's chart, HPI, and 
+lab work under the Objective section to monitor his medication's effects. 
+SOAP note example for therapists 
+Subjective 
+"I'm tired of being overlooked for promotions. I don't know how to make them see what I 
+can do." Frasier's chief complaint is feeling "misunderstood" by her colleagues. 
+Objective 
+Frasier is seated, her posture is rigid, eye contact is minimal. Frasier appears to be 
+presented with a differential diagnosis. 
+Assessment 
+Frasier is seeking practical ways of communicating her needs to her boss, asking for 
+more responsibility, and how she could track her contributions. 
+Plan 
+Book in for a follow-up appointment. Work through some strategies to overcome 
+communication difficulties and lack of insight. Request GP or other appropriate 
+healthcare professionals to conduct a physical examination. 
+SOAP note example for counselors 
+Subjective 
+David states that he continues to experience cravings for heroin. He desperately wants 
+to drop out of his methadone program and revert to what he was doing. David is 
+motivated to stay sober by his daughter and states that he is "sober, but still 
+experiencing terrible withdrawals" He stated that [he] "dreams about heroin all the time, 
+and constantly wakes in the night drenched in sweat." 
+Objective 
+David arrived promptly for his appointment, completing his patient information sheet in 
+the waiting room while exhibiting a pleasant demeanor during the session. He displayed 
+no signs of intoxication. 
+While David still exhibits heightened arousal and some distractibility, his ability to focus 
+has improved. This was evident during his sustained engagement in a fifteen-minute 
+discussion about his partner and his capacity for self-reflection. Additionally, David 
+demonstrated a marked improvement in personal hygiene and self-care. His recent 
+physical exam also revealed a weight gain of 3 pounds. 
+Assessment 
+David demonstrates encouraging progress in his treatment journey. He actively utilizes 
+coping mechanisms, ranging from control techniques to exercises, resulting in a 
+decrease in his cravings, dropping from "constant" to "a few times an hour." This 
+signifies his active engagement and positive response to treatment. 
+However, it is crucial to acknowledge that David still experiences regular cravings, 
+indicative of his ongoing struggle. Coupled with his history of five years of heroin use, it 
+underscores the need for further support. To consolidate his gains and progress 
+towards sustainable recovery, David would benefit from acquiring and implementing 
+additional coping skills. 
+Therefore, considering both his current progress and the underlying factors related to 
+his substance use, David would likely benefit from the addition of Cognitive Behavioral 
+Therapy (CBT) alongside his current methadone treatment. Integrating CBT can equip 
+him with valuable tools for managing triggers, challenging negative thoughts, and 
+developing healthy coping mechanisms, ultimately enhancing his long-term recovery 
+potential. 
+Plan 
+David has received a significant amount of psychoeducation within his therapy session. 
+The therapist will begin to use dialectical behavioral therapy techniques to address 
+David's emotion dysregulation. David also agreed to continue to hold family therapy 
+sessions with his wife. Staff will continue to monitor David regularly in the interest of 
+patient care and his past medical history. 
+SOAP note example for occupational therapists 
+Subjective 
+Ruby stated that she feels 'energized' and 'happy.' She states that getting out of bed in 
+the morning is markedly easier and she feels 'motivated to find work.' She has also 
+stated that her 'eating and sleeping has improved,' but that she is concerned, she is 
+'overeating.' 
+Objective 
+Ruby attended her session and was dressed in a matching pink tracksuit. Her personal 
+hygiene was good, and she had taken great care to apply her makeup and paint her 
+nails. Ruby appeared fresh and lively. Her compliance with her medication is good, and 
+she has been able to complete her jobseekers form. 
+Assessment 
+Ruby presented this morning with markedly improved affect and mood. Her speech was 
+normal in rate and pitch and appeared to flow easily. Her thoughts were coherent, and 
+her conversation was appropriate. Ruby's appearance and posture were different from 
+what they were in our last session. Ruby's medication appears to be assisting her 
+mental health significantly. 
+Plan 
+Short-term goals and interventions: 
+1. Follow-up appointment: Schedule a follow-up session with Ruby in one week to 
+monitor her progress and address any emerging concerns. 
+2. Open communication: Encourage Ruby to maintain open communication with me 
+and contact me for any assistance or questions regarding her job search 
+process. This fosters a collaborative approach and ensures timely support. 
+3. Medication adherence: Collaborate with Ruby to ensure continued adherence to 
+her prescribed medication regimen, emphasizing its importance in managing her 
+condition. 
+4. Multidisciplinary team (MDT) review: Share this latest session's information with 
+Dr. Smith for review within the MDT meeting. This facilitates collaborative 
+analysis, discussion of potential diagnoses, and formulation of a comprehensive 
+treatment plan. 
+Additional considerations: 
+• Exploring potential vocational support: Depending on Ruby's needs and the 
+MDT's recommendations, exploration of additional vocational support services 
+might prove beneficial. This could include career counseling, interview 
+preparation workshops, or specialized job search resources tailored to her 
+specific situation. 
+• Addressing underlying factors: Further assessment is essential to identify any 
+underlying factors contributing to Ruby's presentation, such as anxiety or 
+depression, that might require additional interventions tailored to address them. 
+SOAP note example for dentists 
+Subjective 
+Chief complaint: A 56-year-old woman presents with a chief complaint of "painful upper 
+right back jaw for the past week or so." 
+History of present illness: The patient reports experiencing pain in her upper right back 
+jaw for approximately one week. She describes the pain as [insert patient's description 
+of the pain, e.g., sharp, dull, throbbing, aching]. She states that the pain is [insert 
+patient's description of pain characteristics, e.g., constant, intermittent, worse with 
+specific activities]. She denies any history of fever, chills, facial swelling, difficulty 
+swallowing, or earache. 
+Past medical history: The patient denies any significant past medical history. 
+Medications: The patient denies taking any current medications. 
+Allergies: The patient reports an allergy to paracetamol. 
+Social history: The patient reports a history of [insert details of tobacco use, e.g., 
+smoking cigarettes for 30 years, one pack per day] and [insert details of alcohol 
+consumption, e.g., occasional social drinking]. 
+Objective 
+Vitals: 
+• Blood pressure: 133/91 mmHg 
+• Heart rate: 87 beats per minute 
+• Temperature: 98.7 °F (37.1 °C) 
+Clinical Examination: 
+Extraoral: 
+• No signs of swelling, asymmetry, pain, redness (erythema), numbness 
+(paraesthesia), or tenderness to palpation (TMI) were observed in the external 
+facial and jaw areas. 
+Intraoral: 
+• Tooth #17 (FDI #27) is supra-erupted and contacting (occluding) the pericoronal 
+tissues (gum tissue surrounding the crown) of tooth #16. 
+• Tooth #16 is partially erupted and exhibits: 
+• Red, inflamed gum tissue (erythematous gingiva) 
+• Presence of discharge (exudate) 
+• Pain upon palpation 
+Radiology: 
+• Pending - X-rays (including periapical (PA) and panoramic (Pano) views, or 
+possibly a CT scan) are recommended to further evaluate the underlying 
+anatomy and identify any potential bone involvement. 
+Assessment 
+• Pericoronitis: The patient exhibits clinical signs consistent with pericoronitis 
+affecting tooth #16. This includes the presence of: Partial eruption of the 
+tooth Inflamed gum tissue (erythema) Discharge (exudate) around the tooth Pain 
+upon palpation * Supra-eruption of the opposing tooth (#17) and its contact with 
+the affected tissue 
+• Contributing factors: While a definitive cause cannot be established without 
+further investigation, the patient's smoking history (one pack per week) could 
+potentially contribute to the development of pericoronitis by compromising the 
+immune response and increasing the risk of infection. 
+• Additional considerations: Further information is necessary to fully understand 
+the underlying factors. Pending X-rays (PA and panoramic) will provide valuable 
+insights into the bone structure and identify any potential complications, such as 
+impaction or bone loss. 
+Therefore, a definitive diagnosis and comprehensive treatment plan will be determined 
+following the completion of the X-ray studies and considering the patient's full medical 
+history and any additional information gathered. 
+Plan 
+• Pain management: OTC pain meds (consider allergy) & warm compresses (10-
+15 min, several times/day). 
+• Definitive treatment: Schedule extraction of #17 after X-ray review. 
+• Antibiotics (pending): Consider 5-7 day course of amoxicillin based on X-ray and 
+severity. 
+• Follow-up: See patient in 3-5 days (healing, post-op concerns, oral hygiene). 
+• Oral hygiene education: Instruct on proper brushing/flossing, gentle cleaning of 
+affected area. 
+• Smoking cessation: Encourage quitting to improve healing and reduce infection 
+risk. 
+SOAP note example for speech therapists 
+Subjective 
+Jenny's mother stated, "Jenny's teacher can understand her better now" Jenny's mother 
+is "stoked with Jenny's progress" and can "see the improvement is helpful for Jenny's 
+confidence." 
+Objective 
+Jenny was able to produce /I/ in the final position of words with 80% accuracy. 
+Assessment 
+Jenny's pronunciation has improved 20% since the last session with visual cues of 
+tongue placement. Jenny has made marked improvements throughout the previous 3 
+sessions. 
+Plan 
+Jenny continues to improve with /I/ in the final position and is reaching the goal of /I/ in 
+the initial position. Our next session will focus on discharge. 
+SOAP note example for Physical Therapists  
+Subjective 
+At the time of the initial assessment, Bobby complained of dull aching in his upper back 
+at the level of 3-4 on a scale of 10. Bobby stated that the "pain increases at the end of 
+the day to a 6 or 7". Bobby confirmed he uses heat at home and finds that a "heat pack 
+helps a lot." 
+Objective 
+The cervical spine range of motion is within functional limit with pain to the upper 
+thoracic with flexion and extension. Cervical spine strength is 4/5. The right lateral upper 
+extremity range of motion is within the functional limit, and strength is 5/5. Palpation is 
+positive over paraspinal muscles at the level of C6 through to T4, with the right side 
+being less than the left. The sensation is within normal limits. 
+Assessment 
+Bobby is suffering from pain in the upper thoracic back. 
+Plan 
+To meet with Bobby on a weekly basis for modalities, including moist heat packs, 
+ultrasound, and therapeutic exercises. The goal will be to decrease pain to a 0 and 
+improve functionality. 
+SOAP note example for medical practitioners 
+Subjective 
+66-year-old Darleene presents for a follow-up appointment regarding her hypertension. 
+She reports feeling well, denying any dizziness, headaches, or fatigue. 
+Medical history: Darleene has no significant past medical history beyond hypertension. 
+Her current medication regimen consists solely of HCTZ 25mg daily. 
+Lifestyle: Over the past three months, Darleene has successfully lost 53 pounds by 
+implementing a low-fat diet and incorporating daily 10-minute walks. Notably, she also 
+acknowledges consuming two glasses of wine nightly. Darleene denies using any over-
+the-counter medications like cold remedies or herbal supplements. 
+Objective 
+• Vital signs: 
+• BP: 153/80 mmHg 
+• Pulse: 76 beats per minute 
+• Weight: 155 lbs 
+• Height: 55 inches 
+• BMI: ~30 
+• General appearance: Well-nourished, no acute distress. 
+• HEENT: Normocephalic, atraumatic, atraumatic, atraumatic (head, eyes, ears, 
+nose, throat - all normal). 
+• Neck: Supple, no jugular venous distention (JVD). 
+• Lungs: Clear to auscultation bilaterally. 
+• Heart: Regular rate and rhythm, no murmurs. 
+• Abdomen: Soft, non-tender, no organomegaly. 
+• Extremities: No edema. 
+Assessment 
+Darleene is here for a follow-up of her hypertension. It is not well-controlled since blood 
+pressure is above the goal of 135/85. A possible trigger to her poor control of HTN may 
+be her alcohol use or the presence of obesity. 
+Plan 
+1. Lifestyle modifications: 
+• Continue low-fat diet and exercise: Encourage Darleene to maintain her current 
+healthy diet. 
+• Increase physical activity: Recommend gradually increasing walking duration to 
+20-30 minutes daily to further support weight loss and overall health. 
+• Moderate alcohol intake: Discuss the potential negative impact of excessive 
+alcohol consumption on blood pressure control. Darleene agrees to limit her wine 
+intake to weekend evenings only as a trial to assess its effect on her BP. 
+2. Monitoring and follow-up: 
+• Home blood pressure (BP) monitoring: Instruct Darleene to monitor her BP 
+regularly at home and maintain a diary to document the readings. 
+• Potassium level check: Schedule a blood test to assess her potassium level due 
+to the potential electrolyte imbalance associated with diuretic use. 
+• Follow-up appointment: Schedule a follow-up clinic visit in one month. At this 
+visit, Darleene should bring her BP diary for review. Based on her progress, 
+blood pressure readings, and overall evaluation, the addition of an ACE inhibitor 
+medication might be considered if BP remains uncontrolled. 
+SOAP note example for massage therapists 
+Subjective 
+Fred stated that it had been about one month since his last treatment. Fred stated that 
+he "has been spending a lot more time on his computer" and attributes his increased 
+tension in his upper back and neck to this. Currently, Fred experiences a dull aching 
+4/10 in his left trapezius area. He "would like a relaxation massage with a focus on my 
+neck and shoulders." 
+Objective 
+Tenderness at the left superior angle of the scapula. Gross BUE and cervical strength. 
+A full body massage was provided. TrPs at right upper traps and scapula. Provided 
+client with education on posture when at the computer. Issued handouts and instructed 
+on exercises. All treatment kept within Pt. 
+Assessment 
+Fred reported 1/10 pain following treatment. Good understanding, return demonstration 
+of stretches and exercises—no adverse reactions to treatment. 
+Plan 
+To continue DT and TRP work on upper back and neck as required. Reassess posture 
+and sitting at the next visit. 
+ 

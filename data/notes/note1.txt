@@ -1,0 +1,19 @@
+PROGRESS NOTE  (SYNTHETIC — no real PHI)
+Patient: [REDACTED]    MRN: 000-DEMO-001    DOS: 03/14/2026
+
+SUBJECTIVE:
+68-year-old male presents for routine follow-up. Reports good adherence to medications.
+History of type 2 diabetes mellitus, well controlled on metformin. Also carries a diagnosis
+of congestive heart failure and chronic obstructive pulmonary disease. Patient denies chest
+pain and denies shortness of breath at rest. No history of stroke.
+
+OBJECTIVE:
+BP 138/84. A1c 7.1%. Lower-extremity edema noted, consistent with his CHF. Lungs with
+scattered wheezes. Patient is morbidly obese (BMI 41).
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus — continue metformin, recheck A1c in 3 months.
+2. Congestive heart failure — stable, continue current regimen.
+3. COPD — continue inhalers.
+4. Morbid obesity — counseled on diet and exercise.
+Hypertension is suspected but not yet confirmed; will monitor.

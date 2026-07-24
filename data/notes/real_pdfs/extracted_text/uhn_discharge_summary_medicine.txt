@@ -1,0 +1,179 @@
+ SAMPLE Page 1 of 3 
+ 
+Printed by: Snow, Mike on 15-OCT-2015 
+GENERAL INTERNAL MEDICINE DISCHARGE SUMMARY 
+Patient Name: Smith, John 
+MRN: 1234567 
+DOB: 25-Dec-1950, 65 years old 
+Gender: Male
+VISIT ENCOUNTER            
+Visit Number:  11186424686 
+Admission Date:  08-Oct-2015       
+Discharge Date:  14-Oct-2015 
+Discharge Diagnosis: Pyelonephritis 
+Primary Care Provider / Family Physician: Jay, Samantha; 416-555-5555 
+Most Responsible Health Care Provider: Snow, Michael; Physician; 416-123-4567 
+Discharge Summary Completed by:  Lee, Dan; Senior Resident; 416-321-4567 on 23-Jul-2015 
+Patient Encounter Type: Inpatient 
+Discharge Disposition:  Discharged home from Toronto General Hospital (General Internal Medicine)
+ 
+DIAGNOSIS (Co-Morbidities and Risks)  
+Conditions Impacting Hospital LOS: 
+Pre-Existing:  
+• Hypertension, Type 2 diabetes with no known complications 
+ 
+Developed: 
+• Acute kidney injury, Transaminitis  
+ 
+ 
+Conditions Not Impacting LOS: 
+• Iron deficiency anemia 
+ 
+Risks: None 
+ 
+COURSE WHILE IN HOSPITAL  
+Relevant Complaint(s) and Concerns: 
+1. Upon arrival: Patient presented with five days of increased urinary frequency, urgency and dysuria as well as 
+48 hours of fever and rigors. He was hypotensive and tachycardic upon arrival to the emergency department. 
+The internal medicine service was consulted. The following issues were addressed during the hospitalization: 
+ 
+Summary Course in Hospital (Issues Addressed): 
+2. Fever and urinary symptoms: A preliminary diagnosis of pyelonephritis was established. Other causes of fever 
+were possible but less likely. The patient was hypotensive on initial assessment with a blood pressure of 
+80/40. Serum lactate was elevated at 6.1. A bolus of IV fluid was administered (1.5L) but the patient remained 
+hypotensive. Our colleagues from ICU were consulted. An arterial line was inserted for hemodynamic 
+monitoring. Hemodynamics were supported with levophed and crystalloids. Piptazo was started after blood 
+and urine cultures were drawn. After 12 hours serum lactate had normalized and hemodynamics had 
+stabilized. Blood cultures were positive for E.Coli that was sensitive to all antibiotics. The patient was stepped 
+down to oral ciprofloxacin to complete a total 14 day course of antibiotics. 
+ 
+On further review it was learned that the patient has been experiencing symptoms of prostatism for the last 
+year. An abdominal ultrasound performed for elevated liver enzymes and acute kidney injury confirmed a 
+Ensure Primary Care / 
+Referring Provider 
+information is correct 
+Be concise and itemize 
+descriptions of patient’s 
+initial presentation 
+Indicate pre-existing 
+conditions patient 
+arrived with vs. 
+conditions that 
+developed during stay 
+ SAMPLE Page 2 of 3 
+ 
+Printed by: Snow, Mike on 15-OCT-2015 
+severely enlarged prostate. Urinary retention secondary to BPH was the likely underlying mechanism that 
+contributed to the development of pyelonephritis in this patient. He was started on Tamsulosin 0.4mg PO qhs 
+and tolerated it well with no orthostatic intolerance. Post void residuals show 150-200cc of retained urine in 
+the bladder. An outpatient referral to Urology has been requested by our team. 
+ 
+3. Elevated liver enzymes and creatinine. Both of these were thought to be related to end organ hypoperfusion 
+in the setting of sepsis. Values improved with the administration of IV fluid and stabilization of the patients 
+hemodynamics. Abdominal ultrasound with doppler flow and urine analysis ruled out other possible 
+etiologies. Liver enzymes remain slightly above normal values at the time of discharge. We ask that the 
+patients’ family physician repeat these tests in 2 weeks’ time to ensure complete resolution. 
+ 
+Investigations:  
+Labs 
+ Test Test Date Results Units 
+1 Lactate 08-Oct-2015 6.1 mmol/L 
+2 ALP 08-Oct-2015 450 IU/L 
+3 ALT 08-Oct-2015 1001 IU/L 
+4 AST 08-Oct-2015 850 IU/L 
+5 Bilirubin 08-Oct-2015 24 umol/L 
+6 INR 08-Oct-2015 1.1  
+7 Creatinine 08-Oct-2015 170 umol/L 
+8 ALP 14-Oct-2015 35 IU/L 
+9 ALT 14-Oct-2015 90 IU/L 
+10 AST 14-Oct-2015 70 IU/L 
+11 Bilirubin 14-Oct-2015 17 umol/L 
+12 Creatinine 14-Oct-2015 66 umol/L 
+ 
+Radiology:  
+ Test Test Date Results 
+1 Abdominal and Pelvic 
+Ultrasound 
+08-Oct-2015 Impression: Normal kidneys, liver and 
+doppler analysis. Enlarged prostate. 
+ 
+Interventions (Procedures & Treatments):  
+1.  Arterial line insertion 
+ 
+Allergies:  
+• Latex – Causes rashes 
+ 
+DISCHARGE PLAN  
+Medications at Discharge: 
+Unchanged Medications:  
+ Proferrin 1 tablet po daily 
+ Ramipril 10mg po daily 
+ Metformin 500mg po BID 
+ 
+Adjusted Medications: 
+ None 
+Include important developments while in 
+hospital (do not be over-inclusive)  
+Only include significant or 
+abnormal lab, radiology 
+and diagnostic results 
+Categorized listing of medications 
+ SAMPLE Page 3 of 3 
+ 
+Printed by: Snow, Mike on 15-OCT-2015 
+ 
+New Medications: 
+ Ciprofloxacin 500 mg twice daily for 7 days 
+ Tamsulosin 0.4mg po QHS  
+ 
+Discontinued Medications: 
+        None  
+ 
+Follow-Up Instructions for Patient: 
+1. Fever and urinary symptoms: Should these symptoms return please contact your  
+family doctor urgently or visit your nearest emergency department.  
+2. Dizziness: You have been started on a new medication for your enlarged prostate. 
+If you experience dizziness upon sitting or standing please contact your family  
+physician. 
+ 
+Follow-Up Plan Recommended for Receiving Providers: 
+1. Dear Dr. Jay:  Your patient was admitted to hospital with a diagnosis of pyelonephritis complicated by 
+acute kidney injury and transaminitis. He likely has BPH which contributed to this. We have asked him to 
+arrange follow up with you in two weeks’ time. Please repeat his AST and ALT at that time to ensure that 
+they have normalized. We have also referred him to our colleagues in urology for further assessment of 
+his prostate. 
+Referrals and Appointments:  
+ Appointment With Location / Time Comments/Instructions 
+PATIENT TO 
+BE CALLED  
+Outpatient Urology 
+(Dr. Kenneth Cole)  
+416-340-4555 
+Urology 
+6 Eaton North (TGH)  
+ 
+A new referral has been sent to outpatient 
+Urology. You will be contacted to be given 
+an appointment.  
+If you are not contacted with one week, 
+please call the number provided to follow 
+up.  
+ 
+Copies to be sent to:  
+1. Jay, Samantha; Family Physician; 416-555-5555 
+ 
+ 
+Do not exceed more 
+than three pages! 
+Follow-up 
+arrangements and 
+referrals listed as 
+scheduled / to be 
+scheduled 
+Itemized follow-up 
+plan instructions 
+for patient, and 
+recommendations 
+for Provider(s) 
+Contributor of this Sample Discharge Summary: Dr. Dhanjit Litt, Clinical Assistant, General Internal Medicine, 2016  
+Peer reviewed by: Dr. David Frost, MD, FRCP(C), General Internal Medicine, 2016 

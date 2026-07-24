@@ -1,0 +1,45 @@
+# Versioned prompt config — v1 (baseline).
+#
+# Bumping this file (v2.yaml, v3.yaml, …) is the unit of change the eval suite
+# gates on. The three eras (Past / Present / Future) share this file; each picks
+# the blocks it needs:
+#   past    → rule-based, uses no prompt (deterministic)
+#   present → uses .model, .extraction.*
+#   future  → uses .model, .extraction.*  (same contract, image input)
+
+version: v1
+description: |
+  Baseline clinical-extraction prompt. Turns an unstructured clinical note into
+  a structured list of codeable conditions (ICD-10 + status + evidence).
+
+# ----------------------------------------------------------------------------
+# Model defaults — override at runtime via env (see .env.example)
+# ----------------------------------------------------------------------------
+model:
+  provider: anthropic            # anthropic (this repo) | (future: openai, ollama)
+  extraction_model: claude-haiku-4-5   # fast + inexpensive; plenty for extraction
+  temperature: 0.0
+
+# ----------------------------------------------------------------------------
+# Present / Future — LLM structured extraction
+# ----------------------------------------------------------------------------
+extraction:
+  system: |
+    You are a clinical coding assistant supporting risk-adjustment review.
+    Read the clinical note below and extract every diagnosable condition.
+
+    For each condition return:
+    - name: the standard clinical name
+    - icd10: your best-guess ICD-10-CM code
+    - status: active, historical, negated, or uncertain (use the note's wording —
+      "denies", "no history of", "ruled out" => negated; "suspected", "not yet
+      confirmed" => uncertain)
+    - evidence: the exact phrase from the note that supports it
+    - confidence: 0.0-1.0, your calibrated confidence in the code
+
+    Only include conditions actually supported by the note. Do not invent codes.
+
+    CLINICAL NOTE:
+    ---
+    {note}
+    ---

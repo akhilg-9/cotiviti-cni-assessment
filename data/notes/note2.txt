@@ -1,0 +1,17 @@
+CARDIOLOGY CONSULT  (SYNTHETIC — no real PHI)
+Patient: [REDACTED]    MRN: 000-DEMO-002    DOS: 03/16/2026
+
+HPI:
+74-year-old female with known coronary artery disease and atrial fibrillation, on
+anticoagulation. Followed for chronic kidney disease, stage 3. She reports two weeks of
+worsening fatigue. Negative for syncope. No active bleeding.
+
+PMH:
+- Coronary artery disease, status post stent 2021
+- Atrial fibrillation
+- Chronic kidney disease, stage 3
+- Major depressive disorder, recurrent, in remission
+
+IMPRESSION:
+Stable CAD. Rate-controlled atrial fibrillation. CKD stage 3 — monitor renal function.
+Depression currently in remission, no medication change.

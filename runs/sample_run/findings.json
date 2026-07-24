@@ -1,0 +1,537 @@
+{
+  "note": "data/notes/real_pdfs/extracted_text/ucf_adult_history_physical.txt",
+  "recorded_at_utc": "2026-07-24T010731Z",
+  "mode": "live",
+  "model": "claude-haiku-4-5",
+  "prompt_version": "v1",
+  "findings": {
+    "past": [
+      {
+        "name": "Essential hypertension",
+        "icd10": "I10",
+        "hcc": "(not HCC-weighted)",
+        "status": "active",
+        "evidence": "hypertension",
+        "confidence": 0.6,
+        "method": "rule-based"
+      }
+    ],
+    "present": [
+      {
+        "name": "Rheumatoid Arthritis",
+        "icd10": "M06.9",
+        "status": "active",
+        "evidence": "Patient is a 48 year-old well-nourished Hispanic male with a 2-month history of Rheumatoid Arthritis...He was diagnosed with Rheumatoid Arthritis. He was given a short course of corticosteroids at that time that alleviated his symptoms. He was also started on methotrexate at that time.",
+        "confidence": 0.95,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Headache",
+        "icd10": "R51.9",
+        "status": "active",
+        "evidence": "For the past two months, the patient has been experiencing worsening symptoms. He has been experiencing progressively worsening headaches accompanied with lightheadedness, light and sound sensitivity, nausea, and vomiting...over the last month have been almost daily and lasted most of the day.",
+        "confidence": 0.95,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Lightheadedness",
+        "icd10": "R42",
+        "status": "active",
+        "evidence": "Patient is a 48 year-old well-nourished Hispanic male...presenting after an episode of lightheadedness and muscle weakness...He felt particularly light headed and weak...In the last three days the patient has had a constant headache and lightheadedness",
+        "confidence": 0.95,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Muscle weakness",
+        "icd10": "M62.81",
+        "status": "active",
+        "evidence": "presenting after an episode of lightheadedness and muscle weakness...He felt too weak to walk or leave the bedroom...Strength of biceps, triceps, hand grip, finger spread, hip flexion, knee flexion, and knee extension 4/5 bilaterally",
+        "confidence": 0.9,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Joint pain",
+        "icd10": "M25.50",
+        "status": "active",
+        "evidence": "At that time he experienced fatigue and joint pain in the knees and hands...Concurrently, the patient is experiencing worsening joint pain in the knees and hands. The pain is constant, accompanied by swollen and hot joints, and not alleviated by NSAIDS.",
+        "confidence": 0.95,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Fatigue",
+        "icd10": "R53.83",
+        "status": "active",
+        "evidence": "At that time he experienced fatigue and joint pain in the knees and hands...See HPI regarding fatigue",
+        "confidence": 0.9,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Nausea and vomiting",
+        "icd10": "R11.2",
+        "status": "active",
+        "evidence": "He has been experiencing progressively worsening headaches accompanied with lightheadedness, light and sound sensitivity, nausea, and vomiting...In the last three days the patient has had a constant headache and lightheadedness, and felt unable to eat. When he has tried to eat, he has vomited immediately after eating.",
+        "confidence": 0.95,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Dry mouth",
+        "icd10": "K11.7",
+        "status": "active",
+        "evidence": "Also in the last two months, he has experienced a dry mouth that makes swallowing food difficult...Positive for dry mouth and dysphagia",
+        "confidence": 0.95,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Burning sensation in eyes",
+        "icd10": "R20.8",
+        "status": "active",
+        "evidence": "Also in the last two months, he has experienced...a burning sensation in his eyes...Positive for burning sensation, See HPI",
+        "confidence": 0.9,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Night sweats",
+        "icd10": "R61",
+        "status": "active",
+        "evidence": "In the last month, the patient has been experiencing night sweats, chills, and subjective fevers almost every night...This has impacted his sleep significantly",
+        "confidence": 0.95,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Fever",
+        "icd10": "R50.9",
+        "status": "active",
+        "evidence": "In the last month, the patient has been experiencing night sweats, chills, and subjective fevers almost every night",
+        "confidence": 0.85,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Unintentional weight loss",
+        "icd10": "R63.4",
+        "status": "active",
+        "evidence": "During the course of the past four months the patient reports a 36 pound unintentional weight loss and significant decrease to his muscle mass",
+        "confidence": 0.95,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Anorexia",
+        "icd10": "R63.0",
+        "status": "active",
+        "evidence": "He is unable to eat during headaches...He has been experiencing early satiety and nausea when he does eat...Positive for anorexia, decreased appetite, nausea, vomiting",
+        "confidence": 0.9,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Cervical lymphadenopathy",
+        "icd10": "I88.0",
+        "status": "active",
+        "evidence": "at this time, his sister noticed a facial rash in the pre-auricular area that extended over the eyelids and bridge of the nose as well as cervical lymphadenopathy...Lymphadenopathy in the anterior cervical chain and supraclavicular chain",
+        "confidence": 0.95,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Facial rash",
+        "icd10": "R21",
+        "status": "active",
+        "evidence": "at this time, his sister noticed a facial rash in the pre-auricular area that extended over the eyelids and bridge of the nose...Skin: Macular rash in the pre-auricular area",
+        "confidence": 0.95,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Sj\u00f6gren's syndrome",
+        "icd10": "M35.00",
+        "status": "uncertain",
+        "evidence": "Most Likely: Sj\u04e7grens Syndrome...The patient's laboratory and imaging studies, including a positive SS-A, neck CT showing chronic enlargement of the Parotid Gland, paired with the symptom of dry mouth and a burning sensation of the eye, a possible manifestation of dry eyes, are suggestive of Sj\u04e7grens Syndrome",
+        "confidence": 0.85,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Systemic Lupus Erythematosus",
+        "icd10": "M32.9",
+        "status": "uncertain",
+        "evidence": "Alternative: Systemic Lupus Erythematosus (SLE)...The history of autoimmune diseases, paired with the SS-A and dsDNA can point us towards a diagnosis of Lupus...However, SLE cannot be ruled out at this time",
+        "confidence": 0.45,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Anemia",
+        "icd10": "D64.9",
+        "status": "active",
+        "evidence": "Decreased RBC (3.72x 10(6), Normal: 4.4-5.6 x 10(6)/uL), Decreased Hemoglobin (11.7, Normal 13.7-16.7 g/dL), Decreased Hematocrit (35.1%, Normal 40.0-48.0%)...normochromic normocytic anemia can be seen in up to 20% of sjogrens patients",
+        "confidence": 0.9,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Leukopenia",
+        "icd10": "D72.819",
+        "status": "active",
+        "evidence": "Decreased WBC (3.7, Normal: 4.1-10.4 x 10(3)/uL)...anemia and leukopenia...While the patient is experiencing Leukopenia, it is not extreme",
+        "confidence": 0.9,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Thrombocytopenia",
+        "icd10": "D69.6",
+        "status": "active",
+        "evidence": "Decreased Platelets (112, Normal: 145-355 x 10(3)/uL)",
+        "confidence": 0.9,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Parotid gland enlargement",
+        "icd10": "K11.1",
+        "status": "active",
+        "evidence": "CT showed chronic enlargement of the Parotid Gland...neck CT showing chronic enlargement of the Parotid Gland",
+        "confidence": 0.95,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Depressed mood",
+        "icd10": "F32.9",
+        "status": "active",
+        "evidence": "He also reports a depressed mood and frustration with being unable to work during his illness...Positive for depressed mood",
+        "confidence": 0.8,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Dysphagia",
+        "icd10": "R13.10",
+        "status": "active",
+        "evidence": "Also in the last two months, he has experienced a dry mouth that makes swallowing food difficult...Positive for dry mouth and dysphagia",
+        "confidence": 0.9,
+        "method": "llm (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Early satiety",
+        "icd10": "R68.82",
+        "status": "active",
+        "evidence": "He has been experiencing early satiety and nausea when he does eat...Early Satiety [in Problem List]",
+        "confidence": 0.85,
+        "method": "llm (Claude)",
+        "code_valid": true
+      }
+    ],
+    "future": [
+      {
+        "name": "Rheumatoid Arthritis",
+        "icd10": "M05.9",
+        "status": "active",
+        "evidence": "Patient is a 48 year-old well-nourished Hispanic male with a 2-month history of Rheumatoid Arthritis",
+        "confidence": 0.95,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Sjogren's Syndrome",
+        "icd10": "M35.00",
+        "status": "active",
+        "evidence": "Most Likely: Sj\u00f6grens Syndrome. The patient has a personal history of autoimmune disease and a positive HLA genotype. He was diagnosed with Rheumatoid arthritis 2 months ago. His presenting symptoms of bilateral joint pain in the knees and fingers paired with a positive RF, CCP, and decreased CD4 count made this diagnosis very likely.",
+        "confidence": 0.85,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Headache with lightheadedness",
+        "icd10": "R51.9",
+        "status": "active",
+        "evidence": "Patient has been experiencing progressively worsening headaches accompanied with lightheadedness, light and sound sensitivity, nausea, and vomiting. Over the last month have been almost daily and lasted most of the day.",
+        "confidence": 0.9,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Nausea",
+        "icd10": "R11.0",
+        "status": "active",
+        "evidence": "experiencing progressively worsening headaches accompanied with lightheadedness, light and sound sensitivity, nausea, and vomiting",
+        "confidence": 0.92,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Vomiting",
+        "icd10": "R11.10",
+        "status": "active",
+        "evidence": "experiencing progressively worsening headaches accompanied with lightheadedness, light and sound sensitivity, nausea, and vomiting. He is unable to eat during headaches",
+        "confidence": 0.92,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Fatigue",
+        "icd10": "R53.83",
+        "status": "active",
+        "evidence": "Patient began experiencing symptoms 4 months ago. At that time he experienced fatigue and joint pain in the knees and hands",
+        "confidence": 0.85,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Joint pain",
+        "icd10": "M25.9",
+        "status": "active",
+        "evidence": "experiencing worsening joint pain in the knees and hands. The pain is constant, accompanied by swollen and hot joints, and not alleviated by NSAIDS",
+        "confidence": 0.92,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Unintentional weight loss",
+        "icd10": "R63.4",
+        "status": "active",
+        "evidence": "During the course of the past four months the patient reports a 36 pound unintentional weight loss and significant decrease to his muscle mass",
+        "confidence": 0.9,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Fever",
+        "icd10": "R50.9",
+        "status": "active",
+        "evidence": "In the last month, the patient has been experiencing night sweats, chills, and subjective fevers almost every night",
+        "confidence": 0.85,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Night sweats",
+        "icd10": "R61.9",
+        "status": "active",
+        "evidence": "In the last month, the patient has been experiencing night sweats, chills, and subjective fevers almost every night",
+        "confidence": 0.92,
+        "method": "lmm/vision (Claude)",
+        "code_valid": false
+      },
+      {
+        "name": "Dry mouth (Xerostomia)",
+        "icd10": "K11.7",
+        "status": "active",
+        "evidence": "in the last two months, he has experienced a dry mouth that makes swallowing food difficult",
+        "confidence": 0.85,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Burning sensation in eyes",
+        "icd10": "B54",
+        "status": "active",
+        "evidence": "a burning sensation in his eyes",
+        "confidence": 0.8,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Early satiety",
+        "icd10": "R68.82",
+        "status": "active",
+        "evidence": "He has been experiencing early satiety and nausea when he does eat",
+        "confidence": 0.75,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Anorexia",
+        "icd10": "R63.0",
+        "status": "active",
+        "evidence": "He has been experiencing early satiety and nausea when he does eat. Positive for anorexia, decreased appetite, nausea, vomiting",
+        "confidence": 0.85,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Lymphadenopathy",
+        "icd10": "R59.9",
+        "status": "active",
+        "evidence": "cervical lymphadenopathy. The patient was unaware of these findings and did not know how long the rash or lymphadenopathy had been present. Lymphadenopathy in the anterior cervical chain and supraclavicular chain. Lymph nodes were 4-5 mm and not fixed",
+        "confidence": 0.88,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Facial rash (malar or pre-auricular)",
+        "icd10": "R21.9",
+        "status": "active",
+        "evidence": "rash in the pre-auricular area that extended over the eyelids and bridge of the nose. Macular rash in the pre-auricular area",
+        "confidence": 0.8,
+        "method": "lmm/vision (Claude)",
+        "code_valid": false
+      },
+      {
+        "name": "Clumsy hands",
+        "icd10": "R27.8",
+        "status": "active",
+        "evidence": "He does report clumsiness, especially of the hands",
+        "confidence": 0.7,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Depressed mood",
+        "icd10": "F32.9",
+        "status": "active",
+        "evidence": "He also reports a depressed mood and frustration with being unable to work during his illness",
+        "confidence": 0.75,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Decreased CD4 count",
+        "icd10": "R74.8",
+        "status": "active",
+        "evidence": "Decreased CD4 (147 cells/uL, Normal: 492-1656 cells/uL)",
+        "confidence": 0.85,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Decreased WBC",
+        "icd10": "D72.819",
+        "status": "active",
+        "evidence": "Decreased WBC (4.0, Normal: 4.1-10.4 x 10(3)/uL) and Decreased WBC (3.7, Normal: 4.1-10.4 x 10(3)/uL)",
+        "confidence": 0.88,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Decreased RBC",
+        "icd10": "D50.9",
+        "status": "active",
+        "evidence": "Decreased RBC (4.32, Normal: 4.4-5.6 x 10(6)/uL) and Decreased RBC (3.72x 10(6), Normal: 4.4-5.6 x 10(6)/uL)",
+        "confidence": 0.88,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Anemia",
+        "icd10": "D64.9",
+        "status": "active",
+        "evidence": "Decreased RBC and Hemoglobin",
+        "confidence": 0.85,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Elevated Lactate Dehydrogenase",
+        "icd10": "R74.02",
+        "status": "active",
+        "evidence": "Elevated Lactate Dehydrogenase (333, Normal 140-271)",
+        "confidence": 0.8,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Elevated Creatinine Kinase",
+        "icd10": "R74.8",
+        "status": "active",
+        "evidence": "Elevated Creatinine Kinase (229, Normal: 30-223)",
+        "confidence": 0.78,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Positive ANA",
+        "icd10": "R74.8",
+        "status": "active",
+        "evidence": "Positive ANA (>1:640)",
+        "confidence": 0.8,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Positive Rheumatoid Factor",
+        "icd10": "R74.8",
+        "status": "active",
+        "evidence": "Positive Rheumatoid Factor (70, Normal <20)",
+        "confidence": 0.85,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Elevated CCP",
+        "icd10": "R74.8",
+        "status": "active",
+        "evidence": "Elevated CCP",
+        "confidence": 0.8,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Positive SS-A antibody",
+        "icd10": "R74.8",
+        "status": "active",
+        "evidence": "Positive SS-A",
+        "confidence": 0.82,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Positive HLA Class 1",
+        "icd10": "R74.8",
+        "status": "active",
+        "evidence": "Positive for HLA Cass 1",
+        "confidence": 0.75,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Elevated Sedimentation Rate",
+        "icd10": "R70.0",
+        "status": "active",
+        "evidence": "Elevated Sedimentation Rate (46, Normal 0-15mm/hr)",
+        "confidence": 0.85,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Positive Double Stranded DNA Antibody",
+        "icd10": "R74.8",
+        "status": "active",
+        "evidence": "Positive Double Stranded DNA Antibody (>300, Normal <10)",
+        "confidence": 0.8,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "Systemic Lupus Erythematosus (uncertain)",
+        "icd10": "M32.9",
+        "status": "uncertain",
+        "evidence": "Alternative: Systemic Lupus Erythematosus (SLE). Assessment: SLE is another very possible diagnosis. The history of autoimmune diseases, paired with the SS-A and dsDNA can point us towards a diagnosis of Lupus. However, SLE would not explain the dry mouth and burning eyes, nor would it explain the parotid gland involvement",
+        "confidence": 0.6,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      },
+      {
+        "name": "B-Cell Lymphoma (uncertain)",
+        "icd10": "C85.90",
+        "status": "uncertain",
+        "evidence": "Do Not Miss: B-Cell Lymphoma. Assessment: Patients with both Rheumatoid Arthritis and Sj\u00f6grens syndrome have an increased risk of B-Cell lymphoma. This patient is experiencing night sweats, unintentional weight loss, subjective fever, and lymphadenopathy. However, the small size of the lymph nodes, 4-5 mm, and the nature, not-fixed, makes this diagnosis less likely",
+        "confidence": 0.35,
+        "method": "lmm/vision (Claude)",
+        "code_valid": true
+      }
+    ]
+  }
+}
