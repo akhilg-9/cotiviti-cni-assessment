@@ -24,7 +24,7 @@ SCHEMA = EXTRACTION_SCHEMA
 PROMPT = prompts()["extraction"]["system"]
 
 
-def _offline(note_text: str):
+def _offline(note_text: str) -> list[dict]:
     """Deterministic fallback when no API key is present: reuse the rule-based
     pass but relabel it so the UI is honest about what produced it."""
     out = []
@@ -40,7 +40,7 @@ def _offline(note_text: str):
     return out
 
 
-def extract(note_text: str):
+def extract(note_text: str) -> list[dict]:
     client = get_client()
     if client is None:
         return _offline(note_text)

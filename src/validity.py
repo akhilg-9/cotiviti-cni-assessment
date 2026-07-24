@@ -16,7 +16,7 @@ from . import icd10
 from .audit import RUNS_DIR
 
 
-def collect(runs_dir: Path = RUNS_DIR) -> dict:
+def collect(runs_dir: Path = RUNS_DIR) -> dict[str, dict]:
     """era -> {'total': n, 'valid': n, 'invalid': [(note, name, code), ...]}"""
     stats: dict = {}
     for artifact in sorted(runs_dir.glob("*/findings.json")):

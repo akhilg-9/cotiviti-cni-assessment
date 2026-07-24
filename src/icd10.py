@@ -29,7 +29,7 @@ def is_valid(code: str) -> bool:
     return str(code).replace(".", "").strip().upper() in _codes()
 
 
-def annotate(findings: list) -> list:
+def annotate(findings: list[dict]) -> list[dict]:
     """Stamp each finding with `code_valid` (in place); returns the list."""
     for f in findings:
         f["code_valid"] = is_valid(f.get("icd10", ""))

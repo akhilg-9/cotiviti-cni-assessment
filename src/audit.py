@@ -16,7 +16,7 @@ from .config import PROMPT_VERSION, have_api_key, model
 RUNS_DIR = Path(__file__).resolve().parent.parent / "runs"
 
 
-def record(note_path, results: dict, runs_dir: Path = RUNS_DIR) -> Path:
+def record(note_path: str | Path, results: dict, runs_dir: Path = RUNS_DIR) -> Path:
     """Write one run artifact. `results` maps era name -> findings list."""
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H%M%SZ")
     run_dir = runs_dir / f"{stamp}_{Path(note_path).stem}"

@@ -25,7 +25,7 @@ console = Console()
 NOTES_DIR = ROOT / "data" / "notes"
 
 
-def _table(title: str, subtitle: str, findings) -> Table:
+def _table(title: str, subtitle: str, findings: list[dict]) -> Table:
     t = Table(title=f"{title}\n[dim]{subtitle}[/dim]", title_justify="left", expand=True)
     t.add_column("Condition", style="bold")
     t.add_column("ICD-10")
@@ -46,22 +46,31 @@ def _table(title: str, subtitle: str, findings) -> Table:
 @app.command()
 def run(note: Optional[Path] = typer.Argument(None, help="Note file; defaults to data/notes/note1.txt")):
     """Run Past -> Present -> Future extraction on a clinical note."""
-    note_path = note or (NOTES_DIR / "note1.txt")
-    text = Path(note_path).read_text()
+    note_path = Path(note or (NOTES_DIR / "note1.txt"))
+    if not note_path.is_file():
+        console.print(f"[red]Note file not found:[/red] {note_path}")
+        raise typer.Exit(1)
+    text = note_path.read_text()
     mode = f"LIVE ({model()})" if have_api_key() else "OFFLINE simulation (no ANTHROPIC_API_KEY)"
     console.rule(f"[bold]Clinical Note Intelligence[/bold]  ·  {mode}")
     console.print(f"[dim]note: {note_path}[/dim]\n")
 
     past = rules_ner.extract(text)
-    present = llm_extract.extract(text)
     console.print(_table("PAST", "rule-based dictionary + negation", past))
-    console.print(_table("PRESENT", "LLM structured extraction (Claude)", present))
 
-    scan_path = NOTES_DIR / "scanned_note.png"
-    scan_pages = scan.render_pages(text, str(scan_path))
-    console.print(f"[dim](rendered synthetic scan -> {len(scan_pages)} page(s), {scan_pages[0]})[/dim]")
-    future = vision_extract.extract(scan_pages, offline_text=text)
-    console.print(_table("FUTURE / LMM", "multimodal vision on scanned image", future))
+    try:
+        present = llm_extract.extract(text)
+        console.print(_table("PRESENT", "LLM structured extraction (Claude)", present))
+
+        scan_path = NOTES_DIR / "scanned_note.png"
+        scan_pages = scan.render_pages(text, str(scan_path))
+        console.print(f"[dim](rendered synthetic scan -> {len(scan_pages)} page(s), {scan_pages[0]})[/dim]")
+        future = vision_extract.extract(scan_pages, offline_text=text)
+        console.print(_table("FUTURE / LMM", "multimodal vision on scanned image", future))
+    except Exception as exc:
+        console.print(f"[red]Claude call failed (after retries):[/red] {exc}")
+        console.print("[dim]Check ANTHROPIC_API_KEY / network, or unset the key to run offline.[/dim]")
+        raise typer.Exit(1)
 
     run_dir = audit.record(note_path, {"past": past, "present": present, "future": future})
     console.print(f"[dim](audit artifact -> {run_dir}/findings.json)[/dim]")

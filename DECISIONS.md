@@ -41,6 +41,12 @@ It is the historical baseline being measured, not a product. Making it
 stronger (bigger dictionary, bidirectional negation) would blur the era
 comparison the assessment topic asks for.
 
+**Why a flat src/ layout instead of subpackages?**
+Twelve modules, one concern each, ~500 lines total — readable in one sitting,
+which is the point of a hackathon POC. Subpackages (extractors/, guardrails/,
+eval/) earn their keep at several times this size; here they would only add
+import ceremony between a reviewer and the code.
+
 **Why offline simulation mode?**
 The demo must run for a reviewer without an API key. Offline mode reuses the
 rule-based pass and labels itself as a simulation rather than pretending to be

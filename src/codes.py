@@ -29,7 +29,8 @@ CONDITIONS = {
     "Chronic kidney disease, stage 3": {
         "icd10": "N18.30",
         "hcc": "HCC 329 (CKD stage 3)",
-        "synonyms": ["chronic kidney disease, stage 3", "chronic kidney disease stage 3", "ckd stage 3", "ckd, stage 3", "ckd"],
+        "synonyms": ["chronic kidney disease, stage 3", "chronic kidney disease stage 3",
+                     "ckd stage 3", "ckd, stage 3", "ckd"],
     },
     "Coronary artery disease": {
         "icd10": "I25.10",
@@ -59,4 +60,5 @@ CONDITIONS = {
 }
 
 # Negation / non-active cues for the rule-based matcher.
-NEGATION_CUES = ["no ", "denies", "without", "negative for", "no history of", "ruled out", "not yet confirmed", "suspected"]
+NEGATION_CUES = ["no ", "denies", "without", "negative for", "no history of", "ruled out",
+                 "not yet confirmed", "suspected"]

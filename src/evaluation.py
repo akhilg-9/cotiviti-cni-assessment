@@ -20,7 +20,7 @@ DATA = os.path.join(HERE, "..", "data")
 NOTES = os.path.join(DATA, "notes")
 
 
-def _load_gold():
+def _load_gold() -> dict[str, list[dict]]:
     gold = {}
     with open(os.path.join(DATA, "test_cases.csv")) as f:
         for row in csv.DictReader(f):
@@ -28,7 +28,7 @@ def _load_gold():
     return gold
 
 
-def _matches(gold_row, pred):
+def _matches(gold_row: dict, pred: dict) -> bool:
     """A prediction matches a gold row if the ICD-10 code matches, or the
     condition names overlap (handles LLM phrasing differences)."""
     if gold_row["icd10"].split(".")[0] == str(pred.get("icd10", "")).split(".")[0]:
@@ -38,7 +38,7 @@ def _matches(gold_row, pred):
     return g in p or p in g
 
 
-def _score(note_file, gold_rows, preds):
+def _score(note_file: str, gold_rows: list[dict], preds: list[dict]) -> tuple[int, int, int, int]:
     tp = fp = 0
     status_correct = 0
     matched_gold = set()
@@ -59,7 +59,7 @@ def _score(note_file, gold_rows, preds):
     return tp, fp, fn, status_correct
 
 
-def _prf(tp, fp, fn):
+def _prf(tp: int, fp: int, fn: int) -> tuple[float, float, float]:
     p = tp / (tp + fp) if (tp + fp) else 0.0
     r = tp / (tp + fn) if (tp + fn) else 0.0
     f = 2 * p * r / (p + r) if (p + r) else 0.0
@@ -84,7 +84,10 @@ def evaluate():
             with open(os.path.join(NOTES, note_file)) as fh:
                 preds = fn_extract(fh.read())
             tp, fp, fnc, sc = _score(note_file, rows, preds)
-            TP += tp; FP += fp; FN += fnc; SC += sc
+            TP += tp
+            FP += fp
+            FN += fnc
+            SC += sc
         p, r, f = _prf(TP, FP, FN)
         status_acc = SC / TP if TP else 0.0
         print(f"{name:22} {TP:3d} {FP:3d} {FN:3d} {p:6.2f} {r:6.2f} {f:6.2f} {status_acc:6.0%}")

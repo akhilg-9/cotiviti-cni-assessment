@@ -18,7 +18,7 @@ from .config import get_client, model
 from .models import validate_conditions
 
 
-def extract(image_path: str | list[str], offline_text: str | None = None):
+def extract(image_path: str | list[str], offline_text: str | None = None) -> list[dict]:
     client = get_client()
     if client is None:
         # No key: fall back to the text the scan was rendered from.

@@ -22,7 +22,7 @@ def _is_negated(text_lower: str, span_start: int) -> bool:
     return any(cue in window for cue in NEGATION_CUES)
 
 
-def extract(note_text: str):
+def extract(note_text: str) -> list[dict]:
     """Return a list of condition findings using rule-based matching."""
     text_lower = note_text.lower()
     findings = {}  # canonical name -> finding (dedupe; keep first/active hit)
