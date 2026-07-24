@@ -74,6 +74,13 @@ def eval_cmd():
     evaluate()
 
 
+@app.command("validity")
+def validity_cmd():
+    """Report code-validity vs. official ICD-10-CM across runs/ audit artifacts."""
+    from .validity import report
+    report()
+
+
 def main():  # entry-point used by `python -m src.cli`
     app()
 

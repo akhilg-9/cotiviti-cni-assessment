@@ -30,7 +30,11 @@ Run live on a **real de-identified hospital discharge summary** ([UHN teaching s
 | **Present** — LLM | 9 | ✅ plus AKI, sepsis, BPH, urinary retention… |
 | **Future** — vision | 10 | ✅ read from the scanned page images alone |
 
-The dictionary can only find what it was told about; the LLM/LMM eras find what the chart actually says — with status, evidence, and confidence attached. Full metrics in [BENCHMARKS.md](BENCHMARKS.md).
+The dictionary can only find what it was told about; the LLM/LMM eras find what the chart actually says — with status, evidence, and confidence attached. Full metrics in [BENCHMARKS.md](BENCHMARKS.md); design trade-offs in [DECISIONS.md](DECISIONS.md).
+
+Here is that exact run, live (note the guardrail: every code is checked against the official 74,719-code CMS ICD-10-CM table — across all audited real-note runs the LLM's codes are 97.8% valid, vision 92.1%, and every miss is flagged):
+
+![Live CLI run on a real discharge summary](assets/cli_uhn_run.svg)
 
 **Jump to:** [Why three eras](#why-three-eras) · [Architecture](#architecture) · [Quick start](#quick-start) · [Streamlit demo](#streamlit-demo) · [CLI](#cli) · [Evaluation](#evaluation) · [Configuration](#configuration) · [Deliverables](#deliverables)
 

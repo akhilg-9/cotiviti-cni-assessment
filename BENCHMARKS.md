@@ -78,6 +78,25 @@ only, but the gap is stark:
   review the report recommends. Every run also writes an auditable artifact to
   `runs/` (see `runs/sample_run/`).
 
+## Code validity at scale (no labels required)
+
+Because the official CMS ICD-10-CM table is itself ground truth, code validity
+scales to any number of notes with zero hand-labeling. Across all audited runs
+on real notes (`cni validity`, computed from the `runs/` artifacts):
+
+| Era | Codes valid | Rate |
+|---|--:|--:|
+| Past — rules | 7/7 | 100% (curated dictionary) |
+| Present — LLM | 90/92 | **97.8%** |
+| Future — vision | 105/114 | **92.1%** |
+
+The flagged codes tell two stories. Some simply don't exist (R61.9, R21.9 —
+parents with no subcodes). More interesting: **M54.5, D59.1, and C91.1 were
+valid in earlier ICD-10-CM years and have since been subdivided** — the model
+emits codes from its training-data era, and validation against the *current*
+fiscal-year table catches that drift. In payment integrity, an outdated code
+is a denial; a deterministic, updatable code table is the guard.
+
 ## Limits of this benchmark
 
 - 2 notes / 9 conditions — a demonstrator, not a validation study.
