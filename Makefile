@@ -1,4 +1,4 @@
-.PHONY: install test demo demo-real eval validity app
+.PHONY: install test demo demo-real demo-cad eval validity app
 
 # Use the project venv when it exists, plain python3 otherwise —
 # so `make demo` works without activating anything.
@@ -16,6 +16,9 @@ demo:               ## three-era extraction on the synthetic note (live if ANTHR
 
 demo-real:          ## same pipeline on a real de-identified discharge summary
 	$(PY) -m src.cli run data/notes/real_pdfs/extracted_text/uhn_discharge_summary_medicine.txt
+
+demo-cad:           ## real cardiology note: "no evidence of CAD" — the rules-era false positive
+	$(PY) -m src.cli run data/notes/mtsamples/af_soap.txt
 
 eval:               ## score Past vs Present on the labeled gold set
 	$(PY) -m src.cli eval
