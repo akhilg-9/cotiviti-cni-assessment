@@ -1,44 +1,45 @@
 # Benchmarks
 
 Each era is scored on the **same** labeled gold set (`data/test_cases.csv`,
-9 conditions across 2 synthetic notes) by `src/evaluation.py`. Reproduce with:
+11 conditions across 2 synthetic notes) by `src/evaluation.py`. Reproduce with:
 
 ```bash
 cni eval
 ```
 
+The gold set has a history worth telling: it began with 9 dictionary-curated
+conditions, and the live LLM kept surfacing two findings that are verbatim in
+the notes — lower-extremity edema ("Lower-extremity edema noted") and fatigue
+("two weeks of worsening fatigue") — which the original labels omitted. The
+model audited its own gold set; both findings are now labeled (v2, 11
+conditions).
+
 ## Detection + status accuracy
 
-Measured on `claude-haiku-4-5` (live) and offline:
+Measured on `claude-haiku-4-5` (live, temperature 0) against gold v2:
 
 | Era | TP | FP | FN | Precision | Recall | F1 | Status acc. |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| **Past** — rule-based | 9 | 0 | 0 | 1.00 | 1.00 | 1.00 | **89%** |
-| **Present** — LLM (offline sim.) | 9 | 0 | 0 | 1.00 | 1.00 | 1.00 | 89% |
-| **Present** — LLM (live Claude) | 9 | 1 | 0 | 0.90 | 1.00 | 0.95 | **100%** ✱ |
+| **Past** — rule-based | 9 | 0 | 2 | 1.00 | **0.82** | 0.90 | **89%** |
+| **Present** — LLM (live Claude) | 11 | 0 | 0 | 1.00 | **1.00** | 1.00 | **100%** ✱ |
 
-✱ Live: the LLM resolves the one status case the rule-based pass gets wrong
-(→ 100% status accuracy). Its single "false positive" is **lower-extremity
-edema (R60.0)** — a real finding in note1 ("Lower-extremity edema noted") that
-isn't in the curated gold set. Against this small gold set it scores as an FP,
-but it's clinically correct: the LLM generalises *beyond* the dictionary.
-Offline mode reuses the rule-based pass for the Present row (clearly labelled),
-so the two offline rows match by construction. LLM outputs can vary slightly
-run-to-run even at temperature 0.
+✱ Typical live run. LLM sampling still varies by at most one finding or one
+status judgment between runs (e.g. recall 0.91, status 91%) even at
+temperature 0; the rule-based row is deterministic and never changes. Offline
+mode reuses the rule-based pass for the Present row (clearly labelled), so
+offline rows match the Past row by construction.
 
 ## What the numbers say
 
-- **Detection** recall ties on this curated set — every gold condition is in the
-  rule-based dictionary, so both passes find all 9. But the live LLM *also*
-  surfaced lower-extremity edema, which the dictionary cannot. On *uncurated*
-  real notes the rule-based recall would fall (it only finds terms it was told
-  about); the LLM generalises beyond the dictionary — visible here as that one
-  "extra" finding.
-- **Status accuracy** is where the eras separate. The note says *"Hypertension
-  is suspected but not yet confirmed."* The rule-based negation heuristic only
-  scans **backward** from the matched term, so it never sees the trailing
-  "suspected" and labels hypertension **active** (wrong). The LLM reads the
-  whole sentence and labels it **uncertain** (correct) → 89% → 100%.
+- **Detection**: the rule-based pass finds only its 9 dictionary terms and
+  misses edema and fatigue outright — recall 0.82 even on *synthetic* notes.
+  The LLM finds all 11 with zero false positives. On uncurated real notes the
+  gap widens dramatically (see below).
+- **Status accuracy** separates the eras just as sharply. The note says
+  *"Hypertension is suspected but not yet confirmed."* The rule-based negation
+  heuristic only scans **backward** from the matched term, so it never sees the
+  trailing "suspected" and labels hypertension **active** (wrong). The LLM
+  reads the whole sentence and labels it **uncertain** (correct) → 89% → 100%.
 
 ## Why this matters for Cotiviti
 
@@ -99,7 +100,7 @@ is a denial; a deterministic, updatable code table is the guard.
 
 ## Limits of this benchmark
 
-- 2 notes / 9 conditions — a demonstrator, not a validation study.
+- 2 notes / 11 conditions — a demonstrator, not a validation study.
 - Synthetic notes; real charts are messier (abbreviations, misspellings, scans).
 - The gold set is authored by the same person who wrote the notes.
 

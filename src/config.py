@@ -35,6 +35,11 @@ def model() -> str:
     return os.environ.get("CNI_MODEL") or prompts()["model"]["extraction_model"]
 
 
+def temperature() -> float:
+    """Sampling temperature from the prompt config (0.0 = deterministic-ish)."""
+    return float(prompts()["model"].get("temperature", 0.0))
+
+
 def have_api_key() -> bool:
     return bool(os.environ.get("ANTHROPIC_API_KEY"))
 

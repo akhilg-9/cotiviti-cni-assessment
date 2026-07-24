@@ -16,7 +16,7 @@ demo still runs end-to-end (clearly labelled as a simulation).
 import json
 
 from . import icd10, rules_ner
-from .config import get_client, model, prompts
+from .config import get_client, model, prompts, temperature
 from .models import EXTRACTION_SCHEMA, validate_conditions
 
 # Exposed for the vision (Future/LMM) path to reuse the same contract.
@@ -48,6 +48,7 @@ def extract(note_text: str) -> list[dict]:
     msg = client.messages.create(
         model=model(),
         max_tokens=4000,
+        temperature=temperature(),
         output_config={"format": {"type": "json_schema", "schema": SCHEMA}},
         messages=[{"role": "user", "content": PROMPT.format(note=note_text)}],
     )

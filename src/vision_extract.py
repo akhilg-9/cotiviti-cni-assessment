@@ -14,7 +14,7 @@ import base64
 import json
 
 from . import icd10, llm_extract
-from .config import get_client, model
+from .config import get_client, model, temperature
 from .models import validate_conditions
 
 
@@ -41,6 +41,7 @@ def extract(image_path: str | list[str], offline_text: str | None = None) -> lis
     msg = client.messages.create(
         model=model(),
         max_tokens=4000,
+        temperature=temperature(),
         output_config={"format": {"type": "json_schema", "schema": llm_extract.SCHEMA}},
         messages=[{
             "role": "user",

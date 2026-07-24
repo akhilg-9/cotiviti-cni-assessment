@@ -22,4 +22,4 @@ def test_matches_on_icd10_and_name():
 def test_gold_set_loads():
     gold = evaluate._load_gold()
     assert "note1.txt" in gold and "note2.txt" in gold
-    assert len(gold["note1.txt"]) == 5
+    assert len(gold["note1.txt"]) == 6

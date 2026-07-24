@@ -2,12 +2,14 @@
 
 Deliberate trade-offs, recorded so they read as choices rather than gaps.
 
-**Why a small gold set (9 conditions, 2 notes)?**
+**Why a small gold set (11 conditions, 2 notes)?**
 The assessment asks for a satisficing demonstrator, not a validation study.
-The gold set is big enough to expose the one metric where the eras genuinely
-separate (status accuracy, 89% vs 100%) and small enough to be fully auditable
-by a reviewer in minutes. Real-note validation (below) covers what a curated
-gold set cannot.
+The gold set is big enough to expose where the eras genuinely separate
+(recall 0.82 vs 1.00, status accuracy 89% vs 100%) and small enough to be
+fully auditable by a reviewer in minutes. It was also corrected by its own
+subject: the LLM repeatedly surfaced two real findings (edema, fatigue) the
+original 9-label version omitted — they are now labeled. Real-note validation
+(below) covers what a curated gold set cannot.
 
 **Why also test on real de-identified notes?**
 A gold set authored by the same person who wrote the notes flatters the
