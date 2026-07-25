@@ -11,12 +11,12 @@ Cotiviti GenAI Science Internship — demonstration.
 
 ## Submission at a glance
 
-| Deliverable | Location | Status |
-|---|---|---|
-| 📄 Written report (2 pages + APA references) | [`report.pdf`](deliverables/report.pdf) · [`report.docx`](deliverables/report.docx) | ✅ Complete |
-| 🧪 Proof-of-concept (working code) | [`src/`](src/) · [`app.py`](app.py) · [`notebooks/`](notebooks/) | ✅ Complete — [benchmarks](BENCHMARKS.md), validated live on [real de-identified notes](data/notes/real_pdfs/) |
-| 📊 Slide presentation | [`slides.pdf`](deliverables/slides.pdf) · [`slides.pptx`](deliverables/slides.pptx) | ✅ Complete |
-| 🎥 Video walkthrough | [`deliverables/video/`](deliverables/video/) | ⏳ Recording in progress |
+| Deliverable | Location |
+|---|---|
+| 📄 Written report (2 pages + APA references) | [`report.pdf`](deliverables/report.pdf) · [`report.docx`](deliverables/report.docx) |
+| 🧪 Proof-of-concept (working code) | [`src/`](src/) · [`app.py`](app.py) · [`notebooks/`](notebooks/) — [benchmarks](BENCHMARKS.md), validated live on [real de-identified notes](data/notes/real_pdfs/) |
+| 📊 Slide presentation | [`slides.pdf`](deliverables/slides.pdf) · [`slides.pptx`](deliverables/slides.pptx) |
+| 🎥 Video walkthrough | [`deliverables/video/presentation.mp4`](deliverables/video/presentation.mp4) |
 
 *PDF copies are provided so everything previews directly in the browser; the .docx/.pptx are the originals.*
 
